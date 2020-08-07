@@ -1,0 +1,657 @@
+,Gene,Count,Phenotype IDs,Phenotype Names,Unique Phenotype Groups,Phenotype Groups
+0,CCDC92,10,"['BMI', 'VATSATadjBMI', 'WHRadjBMI', 'WAISTadjBMI', 'HIPCadjBMI', 'ISenBMI', 'T2D', 'T2DadjBMI', 'VATadjBMI', 'FGadjBMI']","['BMI', 'Ratio visceral-subcutaneous adipose tissue volume adj BMI', 'Waist-hip ratio adj BMI', 'Waist circumference adj BMI', 'Hip circumference adj BMI', 'Insulin sensitivity adj BMI', 'Type 2 diabetes', 'Type 2 diabetes adj BMI', 'Visceral adipose tissue volume adj BMI', 'Fasting glucose adj BMI']","['ANTHROPOMETRIC', 'GLYCEMIC']","['ANTHROPOMETRIC', 'ANTHROPOMETRIC', 'ANTHROPOMETRIC', 'ANTHROPOMETRIC', 'ANTHROPOMETRIC', 'GLYCEMIC', 'GLYCEMIC', 'GLYCEMIC', 'ANTHROPOMETRIC', 'GLYCEMIC']"
+1,SCYL1,8,"['BMI', 'VATSATadjBMI', 'WHRadjBMI', 'WAISTadjBMI', 'HIPCadjBMI', 'T2D', 'T2DadjBMI', 'VATadjBMI']","['BMI', 'Ratio visceral-subcutaneous adipose tissue volume adj BMI', 'Waist-hip ratio adj BMI', 'Waist circumference adj BMI', 'Hip circumference adj BMI', 'Type 2 diabetes', 'Type 2 diabetes adj BMI', 'Visceral adipose tissue volume adj BMI']","['ANTHROPOMETRIC', 'GLYCEMIC']","['ANTHROPOMETRIC', 'ANTHROPOMETRIC', 'ANTHROPOMETRIC', 'ANTHROPOMETRIC', 'ANTHROPOMETRIC', 'GLYCEMIC', 'GLYCEMIC', 'ANTHROPOMETRIC']"
+2,LSM2,8,"['BMI', 'VATSATadjBMI', 'WHRadjBMI', 'WAISTadjBMI', 'HIPCadjBMI', 'T2D', 'T2DadjBMI', 'VATadjBMI']","['BMI', 'Ratio visceral-subcutaneous adipose tissue volume adj BMI', 'Waist-hip ratio adj BMI', 'Waist circumference adj BMI', 'Hip circumference adj BMI', 'Type 2 diabetes', 'Type 2 diabetes adj BMI', 'Visceral adipose tissue volume adj BMI']","['ANTHROPOMETRIC', 'GLYCEMIC']","['ANTHROPOMETRIC', 'ANTHROPOMETRIC', 'ANTHROPOMETRIC', 'ANTHROPOMETRIC', 'ANTHROPOMETRIC', 'GLYCEMIC', 'GLYCEMIC', 'ANTHROPOMETRIC']"
+3,HSPA1L,7,"['BMI', 'VATSATadjBMI', 'WHRadjBMI', 'HIPCadjBMI', 'T2D', 'T2DadjBMI', 'VATadjBMI']","['BMI', 'Ratio visceral-subcutaneous adipose tissue volume adj BMI', 'Waist-hip ratio adj BMI', 'Hip circumference adj BMI', 'Type 2 diabetes', 'Type 2 diabetes adj BMI', 'Visceral adipose tissue volume adj BMI']","['ANTHROPOMETRIC', 'GLYCEMIC']","['ANTHROPOMETRIC', 'ANTHROPOMETRIC', 'ANTHROPOMETRIC', 'ANTHROPOMETRIC', 'GLYCEMIC', 'GLYCEMIC', 'ANTHROPOMETRIC']"
+4,PTCH1,7,"['BMI', 'WAISTadjBMI', 'HIPCadjBMI', 'ISenBMI', 'T2D', 'LEPadjBMI', 'T2DadjBMI']","['BMI', 'Waist circumference adj BMI', 'Hip circumference adj BMI', 'Insulin sensitivity adj BMI', 'Type 2 diabetes', 'Leptin adj BMI', 'Type 2 diabetes adj BMI']","['LIPIDS', 'ANTHROPOMETRIC', 'GLYCEMIC']","['ANTHROPOMETRIC', 'ANTHROPOMETRIC', 'ANTHROPOMETRIC', 'GLYCEMIC', 'GLYCEMIC', 'LIPIDS', 'GLYCEMIC']"
+5,SHOC2,7,"['BMI', 'WHRadjBMI', 'WAISTadjBMI', 'HIPCadjBMI', 'T2D', 'T2DadjBMI', 'VATadjBMI']","['BMI', 'Waist-hip ratio adj BMI', 'Waist circumference adj BMI', 'Hip circumference adj BMI', 'Type 2 diabetes', 'Type 2 diabetes adj BMI', 'Visceral adipose tissue volume adj BMI']","['ANTHROPOMETRIC', 'GLYCEMIC']","['ANTHROPOMETRIC', 'ANTHROPOMETRIC', 'ANTHROPOMETRIC', 'ANTHROPOMETRIC', 'GLYCEMIC', 'GLYCEMIC', 'ANTHROPOMETRIC']"
+6,VPS18,7,"['VATSATadjBMI', 'WAISTadjBMI', 'HIPCadjBMI', 'T2D', 'LEPadjBMI', 'T2DadjBMI', 'VATadjBMI']","['Ratio visceral-subcutaneous adipose tissue volume adj BMI', 'Waist circumference adj BMI', 'Hip circumference adj BMI', 'Type 2 diabetes', 'Leptin adj BMI', 'Type 2 diabetes adj BMI', 'Visceral adipose tissue volume adj BMI']","['LIPIDS', 'ANTHROPOMETRIC', 'GLYCEMIC']","['ANTHROPOMETRIC', 'ANTHROPOMETRIC', 'ANTHROPOMETRIC', 'GLYCEMIC', 'LIPIDS', 'GLYCEMIC', 'ANTHROPOMETRIC']"
+7,DCAF7,6,"['BMI', 'WHRadjBMI', 'HIPCadjBMI', 'ISenBMI', 'T2D', 'T2DadjBMI']","['BMI', 'Waist-hip ratio adj BMI', 'Hip circumference adj BMI', 'Insulin sensitivity adj BMI', 'Type 2 diabetes', 'Type 2 diabetes adj BMI']","['ANTHROPOMETRIC', 'GLYCEMIC']","['ANTHROPOMETRIC', 'ANTHROPOMETRIC', 'ANTHROPOMETRIC', 'GLYCEMIC', 'GLYCEMIC', 'GLYCEMIC']"
+8,STIP1,6,"['BMI', 'WHRadjBMI', 'ISenBMI', 'T2D', 'LEPadjBMI', 'T2DadjBMI']","['BMI', 'Waist-hip ratio adj BMI', 'Insulin sensitivity adj BMI', 'Type 2 diabetes', 'Leptin adj BMI', 'Type 2 diabetes adj BMI']","['LIPIDS', 'ANTHROPOMETRIC', 'GLYCEMIC']","['ANTHROPOMETRIC', 'ANTHROPOMETRIC', 'GLYCEMIC', 'GLYCEMIC', 'LIPIDS', 'GLYCEMIC']"
+9,WDR6,6,"['BMI', 'WHRadjBMI', 'WAISTadjBMI', 'T2D', 'T2DadjBMI', 'VATadjBMI']","['BMI', 'Waist-hip ratio adj BMI', 'Waist circumference adj BMI', 'Type 2 diabetes', 'Type 2 diabetes adj BMI', 'Visceral adipose tissue volume adj BMI']","['ANTHROPOMETRIC', 'GLYCEMIC']","['ANTHROPOMETRIC', 'ANTHROPOMETRIC', 'ANTHROPOMETRIC', 'GLYCEMIC', 'GLYCEMIC', 'ANTHROPOMETRIC']"
+10,CEP120,6,"['BMI', 'VATSATadjBMI', 'HIPCadjBMI', 'T2D', 'WAISTadjBMI', 'VATadjBMI']","['BMI', 'Ratio visceral-subcutaneous adipose tissue volume adj BMI', 'Hip circumference adj BMI', 'Type 2 diabetes', 'Waist circumference adj BMI', 'Visceral adipose tissue volume adj BMI']","['ANTHROPOMETRIC', 'GLYCEMIC']","['ANTHROPOMETRIC', 'ANTHROPOMETRIC', 'ANTHROPOMETRIC', 'GLYCEMIC', 'ANTHROPOMETRIC', 'ANTHROPOMETRIC']"
+11,BBS12,6,"['BMI', 'WHRadjBMI', 'WAISTadjBMI', 'HIPCadjBMI', 'T2D', 'T2DadjBMI']","['BMI', 'Waist-hip ratio adj BMI', 'Waist circumference adj BMI', 'Hip circumference adj BMI', 'Type 2 diabetes', 'Type 2 diabetes adj BMI']","['ANTHROPOMETRIC', 'GLYCEMIC']","['ANTHROPOMETRIC', 'ANTHROPOMETRIC', 'ANTHROPOMETRIC', 'ANTHROPOMETRIC', 'GLYCEMIC', 'GLYCEMIC']"
+12,DVL2,6,"['BMI', 'VATSATadjBMI', 'ISenBMI', 'T2D', 'WAISTadjBMI', 'VATadjBMI']","['BMI', 'Ratio visceral-subcutaneous adipose tissue volume adj BMI', 'Insulin sensitivity adj BMI', 'Type 2 diabetes', 'Waist circumference adj BMI', 'Visceral adipose tissue volume adj BMI']","['ANTHROPOMETRIC', 'GLYCEMIC']","['ANTHROPOMETRIC', 'ANTHROPOMETRIC', 'GLYCEMIC', 'GLYCEMIC', 'ANTHROPOMETRIC', 'ANTHROPOMETRIC']"
+13,CCDC96,6,"['BMI', 'WHRadjBMI', 'HIPCadjBMI', 'T2D', 'LEPadjBMI', 'T2DadjBMI']","['BMI', 'Waist-hip ratio adj BMI', 'Hip circumference adj BMI', 'Type 2 diabetes', 'Leptin adj BMI', 'Type 2 diabetes adj BMI']","['LIPIDS', 'ANTHROPOMETRIC', 'GLYCEMIC']","['ANTHROPOMETRIC', 'ANTHROPOMETRIC', 'ANTHROPOMETRIC', 'GLYCEMIC', 'LIPIDS', 'GLYCEMIC']"
+14,IFT172,6,"['BMI', 'HIPCadjBMI', 'T2D', 'LEPadjBMI', 'T2DadjBMI', 'FGadjBMI']","['BMI', 'Hip circumference adj BMI', 'Type 2 diabetes', 'Leptin adj BMI', 'Type 2 diabetes adj BMI', 'Fasting glucose adj BMI']","['LIPIDS', 'ANTHROPOMETRIC', 'GLYCEMIC']","['ANTHROPOMETRIC', 'ANTHROPOMETRIC', 'GLYCEMIC', 'LIPIDS', 'GLYCEMIC', 'GLYCEMIC']"
+15,NF1,6,"['BMI', 'WHRadjBMI', 'HIPCadjBMI', 'T2D', 'LEPadjBMI', 'T2DadjBMI']","['BMI', 'Waist-hip ratio adj BMI', 'Hip circumference adj BMI', 'Type 2 diabetes', 'Leptin adj BMI', 'Type 2 diabetes adj BMI']","['LIPIDS', 'ANTHROPOMETRIC', 'GLYCEMIC']","['ANTHROPOMETRIC', 'ANTHROPOMETRIC', 'ANTHROPOMETRIC', 'GLYCEMIC', 'LIPIDS', 'GLYCEMIC']"
+16,GTSE1,6,"['BMI', 'WHRadjBMI', 'HIPCadjBMI', 'T2D', 'T2DadjBMI', 'FGadjBMI']","['BMI', 'Waist-hip ratio adj BMI', 'Hip circumference adj BMI', 'Type 2 diabetes', 'Type 2 diabetes adj BMI', 'Fasting glucose adj BMI']","['ANTHROPOMETRIC', 'GLYCEMIC']","['ANTHROPOMETRIC', 'ANTHROPOMETRIC', 'ANTHROPOMETRIC', 'GLYCEMIC', 'GLYCEMIC', 'GLYCEMIC']"
+17,SUFU,6,"['BMI', 'WHRadjBMI', 'WAISTadjBMI', 'HIPCadjBMI', 'T2D', 'T2DadjBMI']","['BMI', 'Waist-hip ratio adj BMI', 'Waist circumference adj BMI', 'Hip circumference adj BMI', 'Type 2 diabetes', 'Type 2 diabetes adj BMI']","['ANTHROPOMETRIC', 'GLYCEMIC']","['ANTHROPOMETRIC', 'ANTHROPOMETRIC', 'ANTHROPOMETRIC', 'ANTHROPOMETRIC', 'GLYCEMIC', 'GLYCEMIC']"
+18,HAUS6,6,"['BMI', 'VATSATadjBMI', 'T2D', 'T2DadjBMI', 'FIadjBMI', 'VATadjBMI']","['BMI', 'Ratio visceral-subcutaneous adipose tissue volume adj BMI', 'Type 2 diabetes', 'Type 2 diabetes adj BMI', 'Fasting insulin adj BMI', 'Visceral adipose tissue volume adj BMI']","['ANTHROPOMETRIC', 'GLYCEMIC']","['ANTHROPOMETRIC', 'ANTHROPOMETRIC', 'GLYCEMIC', 'GLYCEMIC', 'GLYCEMIC', 'ANTHROPOMETRIC']"
+19,PRKAR2A,6,"['BMI', 'WHRadjBMI', 'WAISTadjBMI', 'T2D', 'T2DadjBMI', 'VATadjBMI']","['BMI', 'Waist-hip ratio adj BMI', 'Waist circumference adj BMI', 'Type 2 diabetes', 'Type 2 diabetes adj BMI', 'Visceral adipose tissue volume adj BMI']","['ANTHROPOMETRIC', 'GLYCEMIC']","['ANTHROPOMETRIC', 'ANTHROPOMETRIC', 'ANTHROPOMETRIC', 'GLYCEMIC', 'GLYCEMIC', 'ANTHROPOMETRIC']"
+20,PSMC3,6,"['BMI', 'WAISTadjBMI', 'HIPCadjBMI', 'T2D', 'LEPadjBMI', 'T2DadjBMI']","['BMI', 'Waist circumference adj BMI', 'Hip circumference adj BMI', 'Type 2 diabetes', 'Leptin adj BMI', 'Type 2 diabetes adj BMI']","['LIPIDS', 'ANTHROPOMETRIC', 'GLYCEMIC']","['ANTHROPOMETRIC', 'ANTHROPOMETRIC', 'ANTHROPOMETRIC', 'GLYCEMIC', 'LIPIDS', 'GLYCEMIC']"
+21,EDC3,6,"['BMI', 'WHRadjBMI', 'HIPCadjBMI', 'ISenBMI', 'T2D', 'T2DadjBMI']","['BMI', 'Waist-hip ratio adj BMI', 'Hip circumference adj BMI', 'Insulin sensitivity adj BMI', 'Type 2 diabetes', 'Type 2 diabetes adj BMI']","['ANTHROPOMETRIC', 'GLYCEMIC']","['ANTHROPOMETRIC', 'ANTHROPOMETRIC', 'ANTHROPOMETRIC', 'GLYCEMIC', 'GLYCEMIC', 'GLYCEMIC']"
+22,CAMK2B,6,"['BMI', 'WAISTadjBMI', 'HIPCadjBMI', 'T2D', 'T2DadjBMI', 'FGadjBMI']","['BMI', 'Waist circumference adj BMI', 'Hip circumference adj BMI', 'Type 2 diabetes', 'Type 2 diabetes adj BMI', 'Fasting glucose adj BMI']","['ANTHROPOMETRIC', 'GLYCEMIC']","['ANTHROPOMETRIC', 'ANTHROPOMETRIC', 'ANTHROPOMETRIC', 'GLYCEMIC', 'GLYCEMIC', 'GLYCEMIC']"
+23,RBM39,6,"['BMI', 'WAISTadjBMI', 'HIPCadjBMI', 'T2D', 'LEPadjBMI', 'T2DadjBMI']","['BMI', 'Waist circumference adj BMI', 'Hip circumference adj BMI', 'Type 2 diabetes', 'Leptin adj BMI', 'Type 2 diabetes adj BMI']","['LIPIDS', 'ANTHROPOMETRIC', 'GLYCEMIC']","['ANTHROPOMETRIC', 'ANTHROPOMETRIC', 'ANTHROPOMETRIC', 'GLYCEMIC', 'LIPIDS', 'GLYCEMIC']"
+24,KIAA0586,6,"['BMI', 'VATSATadjBMI', 'WHRadjBMI', 'T2D', 'WAISTadjBMI', 'VATadjBMI']","['BMI', 'Ratio visceral-subcutaneous adipose tissue volume adj BMI', 'Waist-hip ratio adj BMI', 'Type 2 diabetes', 'Waist circumference adj BMI', 'Visceral adipose tissue volume adj BMI']","['ANTHROPOMETRIC', 'GLYCEMIC']","['ANTHROPOMETRIC', 'ANTHROPOMETRIC', 'ANTHROPOMETRIC', 'GLYCEMIC', 'ANTHROPOMETRIC', 'ANTHROPOMETRIC']"
+25,UBAP2L,6,"['BMI', 'VATSATadjBMI', 'WAISTadjBMI', 'HIPCadjBMI', 'T2D', 'T2DadjBMI']","['BMI', 'Ratio visceral-subcutaneous adipose tissue volume adj BMI', 'Waist circumference adj BMI', 'Hip circumference adj BMI', 'Type 2 diabetes', 'Type 2 diabetes adj BMI']","['ANTHROPOMETRIC', 'GLYCEMIC']","['ANTHROPOMETRIC', 'ANTHROPOMETRIC', 'ANTHROPOMETRIC', 'ANTHROPOMETRIC', 'GLYCEMIC', 'GLYCEMIC']"
+26,MPHOSPH9,6,"['VATSATadjBMI', 'WHRadjBMI', 'HIPCadjBMI', 'T2D', 'T2DadjBMI', 'VATadjBMI']","['Ratio visceral-subcutaneous adipose tissue volume adj BMI', 'Waist-hip ratio adj BMI', 'Hip circumference adj BMI', 'Type 2 diabetes', 'Type 2 diabetes adj BMI', 'Visceral adipose tissue volume adj BMI']","['ANTHROPOMETRIC', 'GLYCEMIC']","['ANTHROPOMETRIC', 'ANTHROPOMETRIC', 'ANTHROPOMETRIC', 'GLYCEMIC', 'GLYCEMIC', 'ANTHROPOMETRIC']"
+27,CEP250,6,"['WHRadjBMI', 'WAISTadjBMI', 'HIPCadjBMI', 'T2D', 'LEPadjBMI', 'T2DadjBMI']","['Waist-hip ratio adj BMI', 'Waist circumference adj BMI', 'Hip circumference adj BMI', 'Type 2 diabetes', 'Leptin adj BMI', 'Type 2 diabetes adj BMI']","['LIPIDS', 'ANTHROPOMETRIC', 'GLYCEMIC']","['ANTHROPOMETRIC', 'ANTHROPOMETRIC', 'ANTHROPOMETRIC', 'GLYCEMIC', 'LIPIDS', 'GLYCEMIC']"
+28,CSNK2B,6,"['VATSATadjBMI', 'WHRadjBMI', 'HIPCadjBMI', 'T2D', 'T2DadjBMI', 'VATadjBMI']","['Ratio visceral-subcutaneous adipose tissue volume adj BMI', 'Waist-hip ratio adj BMI', 'Hip circumference adj BMI', 'Type 2 diabetes', 'Type 2 diabetes adj BMI', 'Visceral adipose tissue volume adj BMI']","['ANTHROPOMETRIC', 'GLYCEMIC']","['ANTHROPOMETRIC', 'ANTHROPOMETRIC', 'ANTHROPOMETRIC', 'GLYCEMIC', 'GLYCEMIC', 'ANTHROPOMETRIC']"
+29,BBIP1,6,"['VATSATadjBMI', 'WAISTadjBMI', 'HIPCadjBMI', 'T2D', 'T2DadjBMI', 'VATadjBMI']","['Ratio visceral-subcutaneous adipose tissue volume adj BMI', 'Waist circumference adj BMI', 'Hip circumference adj BMI', 'Type 2 diabetes', 'Type 2 diabetes adj BMI', 'Visceral adipose tissue volume adj BMI']","['ANTHROPOMETRIC', 'GLYCEMIC']","['ANTHROPOMETRIC', 'ANTHROPOMETRIC', 'ANTHROPOMETRIC', 'GLYCEMIC', 'GLYCEMIC', 'ANTHROPOMETRIC']"
+30,ACTR1A,5,"['BMI', 'WHRadjBMI', 'WAISTadjBMI', 'HIPCadjBMI', 'T2DadjBMI']","['BMI', 'Waist-hip ratio adj BMI', 'Waist circumference adj BMI', 'Hip circumference adj BMI', 'Type 2 diabetes adj BMI']","['ANTHROPOMETRIC', 'GLYCEMIC']","['ANTHROPOMETRIC', 'ANTHROPOMETRIC', 'ANTHROPOMETRIC', 'ANTHROPOMETRIC', 'GLYCEMIC']"
+31,STUB1,5,"['BMI', 'WAISTadjBMI', 'HIPCadjBMI', 'T2D', 'T2DadjBMI']","['BMI', 'Waist circumference adj BMI', 'Hip circumference adj BMI', 'Type 2 diabetes', 'Type 2 diabetes adj BMI']","['ANTHROPOMETRIC', 'GLYCEMIC']","['ANTHROPOMETRIC', 'ANTHROPOMETRIC', 'ANTHROPOMETRIC', 'GLYCEMIC', 'GLYCEMIC']"
+32,TMED2,5,"['BMI', 'WHRadjBMI', 'WAISTadjBMI', 'HIPCadjBMI', 'T2DadjBMI']","['BMI', 'Waist-hip ratio adj BMI', 'Waist circumference adj BMI', 'Hip circumference adj BMI', 'Type 2 diabetes adj BMI']","['ANTHROPOMETRIC', 'GLYCEMIC']","['ANTHROPOMETRIC', 'ANTHROPOMETRIC', 'ANTHROPOMETRIC', 'ANTHROPOMETRIC', 'GLYCEMIC']"
+33,SEC23IP,5,"['BMI', 'WAISTadjBMI', 'HIPCadjBMI', 'T2D', 'T2DadjBMI']","['BMI', 'Waist circumference adj BMI', 'Hip circumference adj BMI', 'Type 2 diabetes', 'Type 2 diabetes adj BMI']","['ANTHROPOMETRIC', 'GLYCEMIC']","['ANTHROPOMETRIC', 'ANTHROPOMETRIC', 'ANTHROPOMETRIC', 'GLYCEMIC', 'GLYCEMIC']"
+34,ATXN2L,5,"['BMI', 'HIPCadjBMI', 'T2D', 'LEPadjBMI', 'WAISTadjBMI']","['BMI', 'Hip circumference adj BMI', 'Type 2 diabetes', 'Leptin adj BMI', 'Waist circumference adj BMI']","['LIPIDS', 'ANTHROPOMETRIC', 'GLYCEMIC']","['ANTHROPOMETRIC', 'ANTHROPOMETRIC', 'GLYCEMIC', 'LIPIDS', 'ANTHROPOMETRIC']"
+35,NEDD1,5,"['BMI', 'HIPCadjBMI', 'T2D', 'T2DadjBMI', 'FGadjBMI']","['BMI', 'Hip circumference adj BMI', 'Type 2 diabetes', 'Type 2 diabetes adj BMI', 'Fasting glucose adj BMI']","['ANTHROPOMETRIC', 'GLYCEMIC']","['ANTHROPOMETRIC', 'ANTHROPOMETRIC', 'GLYCEMIC', 'GLYCEMIC', 'GLYCEMIC']"
+36,PIGU,5,"['BMI', 'WHRadjBMI', 'HIPCadjBMI', 'T2D', 'T2DadjBMI']","['BMI', 'Waist-hip ratio adj BMI', 'Hip circumference adj BMI', 'Type 2 diabetes', 'Type 2 diabetes adj BMI']","['ANTHROPOMETRIC', 'GLYCEMIC']","['ANTHROPOMETRIC', 'ANTHROPOMETRIC', 'ANTHROPOMETRIC', 'GLYCEMIC', 'GLYCEMIC']"
+37,COPB1,5,"['BMI', 'WAISTadjBMI', 'HIPCadjBMI', 'T2D', 'T2DadjBMI']","['BMI', 'Waist circumference adj BMI', 'Hip circumference adj BMI', 'Type 2 diabetes', 'Type 2 diabetes adj BMI']","['ANTHROPOMETRIC', 'GLYCEMIC']","['ANTHROPOMETRIC', 'ANTHROPOMETRIC', 'ANTHROPOMETRIC', 'GLYCEMIC', 'GLYCEMIC']"
+38,PTPDC1,5,"['BMI', 'WHRadjBMI', 'HIPCadjBMI', 'T2D', 'T2DadjBMI']","['BMI', 'Waist-hip ratio adj BMI', 'Hip circumference adj BMI', 'Type 2 diabetes', 'Type 2 diabetes adj BMI']","['ANTHROPOMETRIC', 'GLYCEMIC']","['ANTHROPOMETRIC', 'ANTHROPOMETRIC', 'ANTHROPOMETRIC', 'GLYCEMIC', 'GLYCEMIC']"
+39,CSE1L,5,"['BMI', 'HIPCadjBMI', 'T2D', 'WAISTadjBMI', 'FIadjBMI']","['BMI', 'Hip circumference adj BMI', 'Type 2 diabetes', 'Waist circumference adj BMI', 'Fasting insulin adj BMI']","['ANTHROPOMETRIC', 'GLYCEMIC']","['ANTHROPOMETRIC', 'ANTHROPOMETRIC', 'GLYCEMIC', 'ANTHROPOMETRIC', 'GLYCEMIC']"
+40,DNM2,5,"['BMI', 'VATSATadjBMI', 'WHRadjBMI', 'HIPCadjBMI', 'LEPadjBMI']","['BMI', 'Ratio visceral-subcutaneous adipose tissue volume adj BMI', 'Waist-hip ratio adj BMI', 'Hip circumference adj BMI', 'Leptin adj BMI']","['LIPIDS', 'ANTHROPOMETRIC']","['ANTHROPOMETRIC', 'ANTHROPOMETRIC', 'ANTHROPOMETRIC', 'ANTHROPOMETRIC', 'LIPIDS']"
+41,ELAVL1,5,"['BMI', 'VATSATadjBMI', 'T2D', 'T2DadjBMI', 'VATadjBMI']","['BMI', 'Ratio visceral-subcutaneous adipose tissue volume adj BMI', 'Type 2 diabetes', 'Type 2 diabetes adj BMI', 'Visceral adipose tissue volume adj BMI']","['ANTHROPOMETRIC', 'GLYCEMIC']","['ANTHROPOMETRIC', 'ANTHROPOMETRIC', 'GLYCEMIC', 'GLYCEMIC', 'ANTHROPOMETRIC']"
+42,GANAB,5,"['BMI', 'WHRadjBMI', 'LEPadjBMI', 'WAISTadjBMI', 'FGadjBMI']","['BMI', 'Waist-hip ratio adj BMI', 'Leptin adj BMI', 'Waist circumference adj BMI', 'Fasting glucose adj BMI']","['LIPIDS', 'ANTHROPOMETRIC', 'GLYCEMIC']","['ANTHROPOMETRIC', 'ANTHROPOMETRIC', 'LIPIDS', 'ANTHROPOMETRIC', 'GLYCEMIC']"
+43,MTOR,5,"['BMI', 'WHRadjBMI', 'T2D', 'T2DadjBMI', 'VATadjBMI']","['BMI', 'Waist-hip ratio adj BMI', 'Type 2 diabetes', 'Type 2 diabetes adj BMI', 'Visceral adipose tissue volume adj BMI']","['ANTHROPOMETRIC', 'GLYCEMIC']","['ANTHROPOMETRIC', 'ANTHROPOMETRIC', 'GLYCEMIC', 'GLYCEMIC', 'ANTHROPOMETRIC']"
+44,STXBP4,5,"['BMI', 'VATSATadjBMI', 'WHRadjBMI', 'VATadjBMI', 'FGadjBMI']","['BMI', 'Ratio visceral-subcutaneous adipose tissue volume adj BMI', 'Waist-hip ratio adj BMI', 'Visceral adipose tissue volume adj BMI', 'Fasting glucose adj BMI']","['ANTHROPOMETRIC', 'GLYCEMIC']","['ANTHROPOMETRIC', 'ANTHROPOMETRIC', 'ANTHROPOMETRIC', 'ANTHROPOMETRIC', 'GLYCEMIC']"
+45,PTPN23,5,"['BMI', 'WHRadjBMI', 'T2D', 'LEPadjBMI', 'T2DadjBMI']","['BMI', 'Waist-hip ratio adj BMI', 'Type 2 diabetes', 'Leptin adj BMI', 'Type 2 diabetes adj BMI']","['LIPIDS', 'ANTHROPOMETRIC', 'GLYCEMIC']","['ANTHROPOMETRIC', 'ANTHROPOMETRIC', 'GLYCEMIC', 'LIPIDS', 'GLYCEMIC']"
+46,GNAS,5,"['BMI', 'WAISTadjBMI', 'HIPCadjBMI', 'T2D', 'T2DadjBMI']","['BMI', 'Waist circumference adj BMI', 'Hip circumference adj BMI', 'Type 2 diabetes', 'Type 2 diabetes adj BMI']","['ANTHROPOMETRIC', 'GLYCEMIC']","['ANTHROPOMETRIC', 'ANTHROPOMETRIC', 'ANTHROPOMETRIC', 'GLYCEMIC', 'GLYCEMIC']"
+47,RHOA,5,"['BMI', 'WHRadjBMI', 'ISenBMI', 'T2D', 'T2DadjBMI']","['BMI', 'Waist-hip ratio adj BMI', 'Insulin sensitivity adj BMI', 'Type 2 diabetes', 'Type 2 diabetes adj BMI']","['ANTHROPOMETRIC', 'GLYCEMIC']","['ANTHROPOMETRIC', 'ANTHROPOMETRIC', 'GLYCEMIC', 'GLYCEMIC', 'GLYCEMIC']"
+48,ARL3,5,"['BMI', 'WHRadjBMI', 'WAISTadjBMI', 'T2D', 'T2DadjBMI']","['BMI', 'Waist-hip ratio adj BMI', 'Waist circumference adj BMI', 'Type 2 diabetes', 'Type 2 diabetes adj BMI']","['ANTHROPOMETRIC', 'GLYCEMIC']","['ANTHROPOMETRIC', 'ANTHROPOMETRIC', 'ANTHROPOMETRIC', 'GLYCEMIC', 'GLYCEMIC']"
+49,KMT2A,5,"['BMI', 'WHRadjBMI', 'WAISTadjBMI', 'T2D', 'T2DadjBMI']","['BMI', 'Waist-hip ratio adj BMI', 'Waist circumference adj BMI', 'Type 2 diabetes', 'Type 2 diabetes adj BMI']","['ANTHROPOMETRIC', 'GLYCEMIC']","['ANTHROPOMETRIC', 'ANTHROPOMETRIC', 'ANTHROPOMETRIC', 'GLYCEMIC', 'GLYCEMIC']"
+50,OCIAD1,5,"['BMI', 'WHRadjBMI', 'WAISTadjBMI', 'T2D', 'T2DadjBMI']","['BMI', 'Waist-hip ratio adj BMI', 'Waist circumference adj BMI', 'Type 2 diabetes', 'Type 2 diabetes adj BMI']","['ANTHROPOMETRIC', 'GLYCEMIC']","['ANTHROPOMETRIC', 'ANTHROPOMETRIC', 'ANTHROPOMETRIC', 'GLYCEMIC', 'GLYCEMIC']"
+51,NPLOC4,5,"['BMI', 'VATSATadjBMI', 'T2D', 'T2DadjBMI', 'VATadjBMI']","['BMI', 'Ratio visceral-subcutaneous adipose tissue volume adj BMI', 'Type 2 diabetes', 'Type 2 diabetes adj BMI', 'Visceral adipose tissue volume adj BMI']","['ANTHROPOMETRIC', 'GLYCEMIC']","['ANTHROPOMETRIC', 'ANTHROPOMETRIC', 'GLYCEMIC', 'GLYCEMIC', 'ANTHROPOMETRIC']"
+52,MAP7D1,5,"['BMI', 'WHRadjBMI', 'T2D', 'T2DadjBMI', 'FGadjBMI']","['BMI', 'Waist-hip ratio adj BMI', 'Type 2 diabetes', 'Type 2 diabetes adj BMI', 'Fasting glucose adj BMI']","['ANTHROPOMETRIC', 'GLYCEMIC']","['ANTHROPOMETRIC', 'ANTHROPOMETRIC', 'GLYCEMIC', 'GLYCEMIC', 'GLYCEMIC']"
+53,IFT122,5,"['BMI', 'VATSATadjBMI', 'HIPCadjBMI', 'ISenBMI', 'VATadjBMI']","['BMI', 'Ratio visceral-subcutaneous adipose tissue volume adj BMI', 'Hip circumference adj BMI', 'Insulin sensitivity adj BMI', 'Visceral adipose tissue volume adj BMI']","['ANTHROPOMETRIC', 'GLYCEMIC']","['ANTHROPOMETRIC', 'ANTHROPOMETRIC', 'ANTHROPOMETRIC', 'GLYCEMIC', 'ANTHROPOMETRIC']"
+54,PSMB4,5,"['BMI', 'HIPCadjBMI', 'T2D', 'LEPadjBMI', 'T2DadjBMI']","['BMI', 'Hip circumference adj BMI', 'Type 2 diabetes', 'Leptin adj BMI', 'Type 2 diabetes adj BMI']","['LIPIDS', 'ANTHROPOMETRIC', 'GLYCEMIC']","['ANTHROPOMETRIC', 'ANTHROPOMETRIC', 'GLYCEMIC', 'LIPIDS', 'GLYCEMIC']"
+55,GOPC,5,"['BMI', 'WAISTadjBMI', 'HIPCadjBMI', 'T2D', 'T2DadjBMI']","['BMI', 'Waist circumference adj BMI', 'Hip circumference adj BMI', 'Type 2 diabetes', 'Type 2 diabetes adj BMI']","['ANTHROPOMETRIC', 'GLYCEMIC']","['ANTHROPOMETRIC', 'ANTHROPOMETRIC', 'ANTHROPOMETRIC', 'GLYCEMIC', 'GLYCEMIC']"
+56,PSMD12,5,"['BMI', 'VATSATadjBMI', 'HIPCadjBMI', 'T2D', 'T2DadjBMI']","['BMI', 'Ratio visceral-subcutaneous adipose tissue volume adj BMI', 'Hip circumference adj BMI', 'Type 2 diabetes', 'Type 2 diabetes adj BMI']","['ANTHROPOMETRIC', 'GLYCEMIC']","['ANTHROPOMETRIC', 'ANTHROPOMETRIC', 'ANTHROPOMETRIC', 'GLYCEMIC', 'GLYCEMIC']"
+57,RAC1,5,"['BMI', 'WHRadjBMI', 'HIPCadjBMI', 'T2D', 'T2DadjBMI']","['BMI', 'Waist-hip ratio adj BMI', 'Hip circumference adj BMI', 'Type 2 diabetes', 'Type 2 diabetes adj BMI']","['ANTHROPOMETRIC', 'GLYCEMIC']","['ANTHROPOMETRIC', 'ANTHROPOMETRIC', 'ANTHROPOMETRIC', 'GLYCEMIC', 'GLYCEMIC']"
+58,SSR1,5,"['BMI', 'HIPCadjBMI', 'T2D', 'T2DadjBMI', 'FGadjBMI']","['BMI', 'Hip circumference adj BMI', 'Type 2 diabetes', 'Type 2 diabetes adj BMI', 'Fasting glucose adj BMI']","['ANTHROPOMETRIC', 'GLYCEMIC']","['ANTHROPOMETRIC', 'ANTHROPOMETRIC', 'GLYCEMIC', 'GLYCEMIC', 'GLYCEMIC']"
+59,NEK4,5,"['BMI', 'WHRadjBMI', 'HIPCadjBMI', 'WAISTadjBMI', 'FGadjBMI']","['BMI', 'Waist-hip ratio adj BMI', 'Hip circumference adj BMI', 'Waist circumference adj BMI', 'Fasting glucose adj BMI']","['ANTHROPOMETRIC', 'GLYCEMIC']","['ANTHROPOMETRIC', 'ANTHROPOMETRIC', 'ANTHROPOMETRIC', 'ANTHROPOMETRIC', 'GLYCEMIC']"
+60,TUBG1,5,"['BMI', 'WAISTadjBMI', 'HIPCadjBMI', 'T2D', 'T2DadjBMI']","['BMI', 'Waist circumference adj BMI', 'Hip circumference adj BMI', 'Type 2 diabetes', 'Type 2 diabetes adj BMI']","['ANTHROPOMETRIC', 'GLYCEMIC']","['ANTHROPOMETRIC', 'ANTHROPOMETRIC', 'ANTHROPOMETRIC', 'GLYCEMIC', 'GLYCEMIC']"
+61,TULP1,5,"['BMI', 'WHRadjBMI', 'WAISTadjBMI', 'HIPCadjBMI', 'T2DadjBMI']","['BMI', 'Waist-hip ratio adj BMI', 'Waist circumference adj BMI', 'Hip circumference adj BMI', 'Type 2 diabetes adj BMI']","['ANTHROPOMETRIC', 'GLYCEMIC']","['ANTHROPOMETRIC', 'ANTHROPOMETRIC', 'ANTHROPOMETRIC', 'ANTHROPOMETRIC', 'GLYCEMIC']"
+62,DYNLRB1,5,"['BMI', 'VATSATadjBMI', 'HIPCadjBMI', 'T2D', 'T2DadjBMI']","['BMI', 'Ratio visceral-subcutaneous adipose tissue volume adj BMI', 'Hip circumference adj BMI', 'Type 2 diabetes', 'Type 2 diabetes adj BMI']","['ANTHROPOMETRIC', 'GLYCEMIC']","['ANTHROPOMETRIC', 'ANTHROPOMETRIC', 'ANTHROPOMETRIC', 'GLYCEMIC', 'GLYCEMIC']"
+63,CEP78,5,"['BMI', 'VATSATadjBMI', 'ISenBMI', 'WAISTadjBMI', 'VATadjBMI']","['BMI', 'Ratio visceral-subcutaneous adipose tissue volume adj BMI', 'Insulin sensitivity adj BMI', 'Waist circumference adj BMI', 'Visceral adipose tissue volume adj BMI']","['ANTHROPOMETRIC', 'GLYCEMIC']","['ANTHROPOMETRIC', 'ANTHROPOMETRIC', 'GLYCEMIC', 'ANTHROPOMETRIC', 'ANTHROPOMETRIC']"
+64,PUM1,5,"['BMI', 'WAISTadjBMI', 'HIPCadjBMI', 'T2D', 'T2DadjBMI']","['BMI', 'Waist circumference adj BMI', 'Hip circumference adj BMI', 'Type 2 diabetes', 'Type 2 diabetes adj BMI']","['ANTHROPOMETRIC', 'GLYCEMIC']","['ANTHROPOMETRIC', 'ANTHROPOMETRIC', 'ANTHROPOMETRIC', 'GLYCEMIC', 'GLYCEMIC']"
+65,KIAA0753,5,"['BMI', 'WAISTadjBMI', 'HIPCadjBMI', 'T2D', 'T2DadjBMI']","['BMI', 'Waist circumference adj BMI', 'Hip circumference adj BMI', 'Type 2 diabetes', 'Type 2 diabetes adj BMI']","['ANTHROPOMETRIC', 'GLYCEMIC']","['ANTHROPOMETRIC', 'ANTHROPOMETRIC', 'ANTHROPOMETRIC', 'GLYCEMIC', 'GLYCEMIC']"
+66,FBXW11,5,"['WAISTadjBMI', 'HIPCadjBMI', 'T2D', 'LEPadjBMI', 'T2DadjBMI']","['Waist circumference adj BMI', 'Hip circumference adj BMI', 'Type 2 diabetes', 'Leptin adj BMI', 'Type 2 diabetes adj BMI']","['LIPIDS', 'ANTHROPOMETRIC', 'GLYCEMIC']","['ANTHROPOMETRIC', 'ANTHROPOMETRIC', 'GLYCEMIC', 'LIPIDS', 'GLYCEMIC']"
+67,SFPQ,5,"['VATSATadjBMI', 'WHRadjBMI', 'HIPCadjBMI', 'T2D', 'T2DadjBMI']","['Ratio visceral-subcutaneous adipose tissue volume adj BMI', 'Waist-hip ratio adj BMI', 'Hip circumference adj BMI', 'Type 2 diabetes', 'Type 2 diabetes adj BMI']","['ANTHROPOMETRIC', 'GLYCEMIC']","['ANTHROPOMETRIC', 'ANTHROPOMETRIC', 'ANTHROPOMETRIC', 'GLYCEMIC', 'GLYCEMIC']"
+68,CDC7,5,"['WAISTadjBMI', 'HIPCadjBMI', 'T2D', 'T2DadjBMI', 'VATadjBMI']","['Waist circumference adj BMI', 'Hip circumference adj BMI', 'Type 2 diabetes', 'Type 2 diabetes adj BMI', 'Visceral adipose tissue volume adj BMI']","['ANTHROPOMETRIC', 'GLYCEMIC']","['ANTHROPOMETRIC', 'ANTHROPOMETRIC', 'GLYCEMIC', 'GLYCEMIC', 'ANTHROPOMETRIC']"
+69,SEPT7,5,"['WAISTadjBMI', 'ISenBMI', 'T2D', 'T2DadjBMI', 'VATadjBMI']","['Waist circumference adj BMI', 'Insulin sensitivity adj BMI', 'Type 2 diabetes', 'Type 2 diabetes adj BMI', 'Visceral adipose tissue volume adj BMI']","['ANTHROPOMETRIC', 'GLYCEMIC']","['ANTHROPOMETRIC', 'GLYCEMIC', 'GLYCEMIC', 'GLYCEMIC', 'ANTHROPOMETRIC']"
+70,QARS,5,"['WHRadjBMI', 'WAISTadjBMI', 'T2D', 'T2DadjBMI', 'VATadjBMI']","['Waist-hip ratio adj BMI', 'Waist circumference adj BMI', 'Type 2 diabetes', 'Type 2 diabetes adj BMI', 'Visceral adipose tissue volume adj BMI']","['ANTHROPOMETRIC', 'GLYCEMIC']","['ANTHROPOMETRIC', 'ANTHROPOMETRIC', 'GLYCEMIC', 'GLYCEMIC', 'ANTHROPOMETRIC']"
+71,PSMD14,4,"['T2DadjBMI', 'VATadjBMI', 'BMI', 'T2D']","['Type 2 diabetes adj BMI', 'Visceral adipose tissue volume adj BMI', 'BMI', 'Type 2 diabetes']","['ANTHROPOMETRIC', 'GLYCEMIC']","['GLYCEMIC', 'ANTHROPOMETRIC', 'ANTHROPOMETRIC', 'GLYCEMIC']"
+72,DNAJA2,4,"['T2DadjBMI', 'FIadjBMI', 'FGadjBMI', 'BMI']","['Type 2 diabetes adj BMI', 'Fasting insulin adj BMI', 'Fasting glucose adj BMI', 'BMI']","['ANTHROPOMETRIC', 'GLYCEMIC']","['GLYCEMIC', 'GLYCEMIC', 'GLYCEMIC', 'ANTHROPOMETRIC']"
+73,CETN3,4,"['WHRadjBMI', 'VATadjBMI', 'BMI', 'VATSATadjBMI']","['Waist-hip ratio adj BMI', 'Visceral adipose tissue volume adj BMI', 'BMI', 'Ratio visceral-subcutaneous adipose tissue volume adj BMI']",['ANTHROPOMETRIC'],"['ANTHROPOMETRIC', 'ANTHROPOMETRIC', 'ANTHROPOMETRIC', 'ANTHROPOMETRIC']"
+74,SDCCAG8,4,"['HIPCadjBMI', 'T2DadjBMI', 'BMI', 'T2D']","['Hip circumference adj BMI', 'Type 2 diabetes adj BMI', 'BMI', 'Type 2 diabetes']","['ANTHROPOMETRIC', 'GLYCEMIC']","['ANTHROPOMETRIC', 'GLYCEMIC', 'ANTHROPOMETRIC', 'GLYCEMIC']"
+75,TLK2,4,"['VATSATadjBMI', 'VATadjBMI', 'BMI', 'T2D']","['Ratio visceral-subcutaneous adipose tissue volume adj BMI', 'Visceral adipose tissue volume adj BMI', 'BMI', 'Type 2 diabetes']","['ANTHROPOMETRIC', 'GLYCEMIC']","['ANTHROPOMETRIC', 'ANTHROPOMETRIC', 'ANTHROPOMETRIC', 'GLYCEMIC']"
+76,ADCY6,4,"['T2DadjBMI', 'WAISTadjBMI', 'BMI', 'T2D']","['Type 2 diabetes adj BMI', 'Waist circumference adj BMI', 'BMI', 'Type 2 diabetes']","['ANTHROPOMETRIC', 'GLYCEMIC']","['GLYCEMIC', 'ANTHROPOMETRIC', 'ANTHROPOMETRIC', 'GLYCEMIC']"
+77,DDX20,4,"['LEPadjBMI', 'ISenBMI', 'BMI', 'T2D']","['Leptin adj BMI', 'Insulin sensitivity adj BMI', 'BMI', 'Type 2 diabetes']","['LIPIDS', 'ANTHROPOMETRIC', 'GLYCEMIC']","['LIPIDS', 'GLYCEMIC', 'ANTHROPOMETRIC', 'GLYCEMIC']"
+78,AP2M1,4,"['T2DadjBMI', 'ISenBMI', 'BMI', 'T2D']","['Type 2 diabetes adj BMI', 'Insulin sensitivity adj BMI', 'BMI', 'Type 2 diabetes']","['ANTHROPOMETRIC', 'GLYCEMIC']","['GLYCEMIC', 'GLYCEMIC', 'ANTHROPOMETRIC', 'GLYCEMIC']"
+79,FOPNL,4,"['T2DadjBMI', 'FGadjBMI', 'BMI', 'T2D']","['Type 2 diabetes adj BMI', 'Fasting glucose adj BMI', 'BMI', 'Type 2 diabetes']","['ANTHROPOMETRIC', 'GLYCEMIC']","['GLYCEMIC', 'GLYCEMIC', 'ANTHROPOMETRIC', 'GLYCEMIC']"
+80,POC5,4,"['T2DadjBMI', 'LEPadjBMI', 'BMI', 'T2D']","['Type 2 diabetes adj BMI', 'Leptin adj BMI', 'BMI', 'Type 2 diabetes']","['LIPIDS', 'ANTHROPOMETRIC', 'GLYCEMIC']","['GLYCEMIC', 'LIPIDS', 'ANTHROPOMETRIC', 'GLYCEMIC']"
+81,PLEKHA7,4,"['T2DadjBMI', 'WAISTadjBMI', 'BMI', 'T2D']","['Type 2 diabetes adj BMI', 'Waist circumference adj BMI', 'BMI', 'Type 2 diabetes']","['ANTHROPOMETRIC', 'GLYCEMIC']","['GLYCEMIC', 'ANTHROPOMETRIC', 'ANTHROPOMETRIC', 'GLYCEMIC']"
+82,CSNK1E,4,"['T2DadjBMI', 'ISenBMI', 'BMI', 'T2D']","['Type 2 diabetes adj BMI', 'Insulin sensitivity adj BMI', 'BMI', 'Type 2 diabetes']","['ANTHROPOMETRIC', 'GLYCEMIC']","['GLYCEMIC', 'GLYCEMIC', 'ANTHROPOMETRIC', 'GLYCEMIC']"
+83,CAMSAP1,4,"['T2DadjBMI', 'VATSATadjBMI', 'BMI', 'T2D']","['Type 2 diabetes adj BMI', 'Ratio visceral-subcutaneous adipose tissue volume adj BMI', 'BMI', 'Type 2 diabetes']","['ANTHROPOMETRIC', 'GLYCEMIC']","['GLYCEMIC', 'ANTHROPOMETRIC', 'ANTHROPOMETRIC', 'GLYCEMIC']"
+84,DYNC1H1,4,"['WAISTadjBMI', 'VATSATadjBMI', 'BMI', 'T2D']","['Waist circumference adj BMI', 'Ratio visceral-subcutaneous adipose tissue volume adj BMI', 'BMI', 'Type 2 diabetes']","['ANTHROPOMETRIC', 'GLYCEMIC']","['ANTHROPOMETRIC', 'ANTHROPOMETRIC', 'ANTHROPOMETRIC', 'GLYCEMIC']"
+85,DYNC1I2,4,"['HIPCadjBMI', 'T2DadjBMI', 'BMI', 'T2D']","['Hip circumference adj BMI', 'Type 2 diabetes adj BMI', 'BMI', 'Type 2 diabetes']","['ANTHROPOMETRIC', 'GLYCEMIC']","['ANTHROPOMETRIC', 'GLYCEMIC', 'ANTHROPOMETRIC', 'GLYCEMIC']"
+86,DVL3,4,"['T2DadjBMI', 'ISenBMI', 'BMI', 'T2D']","['Type 2 diabetes adj BMI', 'Insulin sensitivity adj BMI', 'BMI', 'Type 2 diabetes']","['ANTHROPOMETRIC', 'GLYCEMIC']","['GLYCEMIC', 'GLYCEMIC', 'ANTHROPOMETRIC', 'GLYCEMIC']"
+87,KIF1B,4,"['HIPCadjBMI', 'T2DadjBMI', 'BMI', 'T2D']","['Hip circumference adj BMI', 'Type 2 diabetes adj BMI', 'BMI', 'Type 2 diabetes']","['ANTHROPOMETRIC', 'GLYCEMIC']","['ANTHROPOMETRIC', 'GLYCEMIC', 'ANTHROPOMETRIC', 'GLYCEMIC']"
+88,ANKRD28,4,"['T2DadjBMI', 'WHRadjBMI', 'BMI', 'T2D']","['Type 2 diabetes adj BMI', 'Waist-hip ratio adj BMI', 'BMI', 'Type 2 diabetes']","['ANTHROPOMETRIC', 'GLYCEMIC']","['GLYCEMIC', 'ANTHROPOMETRIC', 'ANTHROPOMETRIC', 'GLYCEMIC']"
+89,RPGRIP1L,4,"['T2DadjBMI', 'VATSATadjBMI', 'BMI', 'T2D']","['Type 2 diabetes adj BMI', 'Ratio visceral-subcutaneous adipose tissue volume adj BMI', 'BMI', 'Type 2 diabetes']","['ANTHROPOMETRIC', 'GLYCEMIC']","['GLYCEMIC', 'ANTHROPOMETRIC', 'ANTHROPOMETRIC', 'GLYCEMIC']"
+90,NUDCD3,4,"['T2DadjBMI', 'WAISTadjBMI', 'BMI', 'T2D']","['Type 2 diabetes adj BMI', 'Waist circumference adj BMI', 'BMI', 'Type 2 diabetes']","['ANTHROPOMETRIC', 'GLYCEMIC']","['GLYCEMIC', 'ANTHROPOMETRIC', 'ANTHROPOMETRIC', 'GLYCEMIC']"
+91,SCRIB,4,"['HIPCadjBMI', 'FIadjBMI', 'T2DadjBMI', 'BMI']","['Hip circumference adj BMI', 'Fasting insulin adj BMI', 'Type 2 diabetes adj BMI', 'BMI']","['ANTHROPOMETRIC', 'GLYCEMIC']","['ANTHROPOMETRIC', 'GLYCEMIC', 'GLYCEMIC', 'ANTHROPOMETRIC']"
+92,DDAH1,4,"['WAISTadjBMI', 'VATadjBMI', 'BMI', 'T2D']","['Waist circumference adj BMI', 'Visceral adipose tissue volume adj BMI', 'BMI', 'Type 2 diabetes']","['ANTHROPOMETRIC', 'GLYCEMIC']","['ANTHROPOMETRIC', 'ANTHROPOMETRIC', 'ANTHROPOMETRIC', 'GLYCEMIC']"
+93,EDC4,4,"['T2DadjBMI', 'WHRadjBMI', 'WAISTadjBMI', 'BMI']","['Type 2 diabetes adj BMI', 'Waist-hip ratio adj BMI', 'Waist circumference adj BMI', 'BMI']","['ANTHROPOMETRIC', 'GLYCEMIC']","['GLYCEMIC', 'ANTHROPOMETRIC', 'ANTHROPOMETRIC', 'ANTHROPOMETRIC']"
+94,MOB4,4,"['WAISTadjBMI', 'LEPadjBMI', 'BMI', 'T2D']","['Waist circumference adj BMI', 'Leptin adj BMI', 'BMI', 'Type 2 diabetes']","['LIPIDS', 'ANTHROPOMETRIC', 'GLYCEMIC']","['ANTHROPOMETRIC', 'LIPIDS', 'ANTHROPOMETRIC', 'GLYCEMIC']"
+95,SPEF1,4,"['T2DadjBMI', 'VATadjBMI', 'BMI', 'T2D']","['Type 2 diabetes adj BMI', 'Visceral adipose tissue volume adj BMI', 'BMI', 'Type 2 diabetes']","['ANTHROPOMETRIC', 'GLYCEMIC']","['GLYCEMIC', 'ANTHROPOMETRIC', 'ANTHROPOMETRIC', 'GLYCEMIC']"
+96,POC1A,4,"['T2DadjBMI', 'WAISTadjBMI', 'BMI', 'T2D']","['Type 2 diabetes adj BMI', 'Waist circumference adj BMI', 'BMI', 'Type 2 diabetes']","['ANTHROPOMETRIC', 'GLYCEMIC']","['GLYCEMIC', 'ANTHROPOMETRIC', 'ANTHROPOMETRIC', 'GLYCEMIC']"
+97,CFAP61,4,"['T2DadjBMI', 'LEPadjBMI', 'BMI', 'T2D']","['Type 2 diabetes adj BMI', 'Leptin adj BMI', 'BMI', 'Type 2 diabetes']","['LIPIDS', 'ANTHROPOMETRIC', 'GLYCEMIC']","['GLYCEMIC', 'LIPIDS', 'ANTHROPOMETRIC', 'GLYCEMIC']"
+98,GAS8,4,"['HIPCadjBMI', 'WAISTadjBMI', 'FGadjBMI', 'BMI']","['Hip circumference adj BMI', 'Waist circumference adj BMI', 'Fasting glucose adj BMI', 'BMI']","['ANTHROPOMETRIC', 'GLYCEMIC']","['ANTHROPOMETRIC', 'ANTHROPOMETRIC', 'GLYCEMIC', 'ANTHROPOMETRIC']"
+99,BBS9,4,"['T2DadjBMI', 'VATadjBMI', 'BMI', 'T2D']","['Type 2 diabetes adj BMI', 'Visceral adipose tissue volume adj BMI', 'BMI', 'Type 2 diabetes']","['ANTHROPOMETRIC', 'GLYCEMIC']","['GLYCEMIC', 'ANTHROPOMETRIC', 'ANTHROPOMETRIC', 'GLYCEMIC']"
+100,GLI2,4,"['T2DadjBMI', 'WAISTadjBMI', 'BMI', 'T2D']","['Type 2 diabetes adj BMI', 'Waist circumference adj BMI', 'BMI', 'Type 2 diabetes']","['ANTHROPOMETRIC', 'GLYCEMIC']","['GLYCEMIC', 'ANTHROPOMETRIC', 'ANTHROPOMETRIC', 'GLYCEMIC']"
+101,GOLGA3,4,"['HIPCadjBMI', 'T2DadjBMI', 'BMI', 'T2D']","['Hip circumference adj BMI', 'Type 2 diabetes adj BMI', 'BMI', 'Type 2 diabetes']","['ANTHROPOMETRIC', 'GLYCEMIC']","['ANTHROPOMETRIC', 'GLYCEMIC', 'ANTHROPOMETRIC', 'GLYCEMIC']"
+102,ANKRD52,4,"['HIPCadjBMI', 'WAISTadjBMI', 'BMI', 'T2D']","['Hip circumference adj BMI', 'Waist circumference adj BMI', 'BMI', 'Type 2 diabetes']","['ANTHROPOMETRIC', 'GLYCEMIC']","['ANTHROPOMETRIC', 'ANTHROPOMETRIC', 'ANTHROPOMETRIC', 'GLYCEMIC']"
+103,TTLL6,4,"['HIPCadjBMI', 'T2DadjBMI', 'BMI', 'T2D']","['Hip circumference adj BMI', 'Type 2 diabetes adj BMI', 'BMI', 'Type 2 diabetes']","['ANTHROPOMETRIC', 'GLYCEMIC']","['ANTHROPOMETRIC', 'GLYCEMIC', 'ANTHROPOMETRIC', 'GLYCEMIC']"
+104,PDIA3,4,"['T2DadjBMI', 'LEPadjBMI', 'BMI', 'T2D']","['Type 2 diabetes adj BMI', 'Leptin adj BMI', 'BMI', 'Type 2 diabetes']","['LIPIDS', 'ANTHROPOMETRIC', 'GLYCEMIC']","['GLYCEMIC', 'LIPIDS', 'ANTHROPOMETRIC', 'GLYCEMIC']"
+105,HSPA5,4,"['T2DadjBMI', 'WHRadjBMI', 'BMI', 'T2D']","['Type 2 diabetes adj BMI', 'Waist-hip ratio adj BMI', 'BMI', 'Type 2 diabetes']","['ANTHROPOMETRIC', 'GLYCEMIC']","['GLYCEMIC', 'ANTHROPOMETRIC', 'ANTHROPOMETRIC', 'GLYCEMIC']"
+106,KLC1,4,"['T2DadjBMI', 'FGadjBMI', 'BMI', 'T2D']","['Type 2 diabetes adj BMI', 'Fasting glucose adj BMI', 'BMI', 'Type 2 diabetes']","['ANTHROPOMETRIC', 'GLYCEMIC']","['GLYCEMIC', 'GLYCEMIC', 'ANTHROPOMETRIC', 'GLYCEMIC']"
+107,MARK3,4,"['T2DadjBMI', 'LEPadjBMI', 'BMI', 'T2D']","['Type 2 diabetes adj BMI', 'Leptin adj BMI', 'BMI', 'Type 2 diabetes']","['LIPIDS', 'ANTHROPOMETRIC', 'GLYCEMIC']","['GLYCEMIC', 'LIPIDS', 'ANTHROPOMETRIC', 'GLYCEMIC']"
+108,PA2G4,4,"['HIPCadjBMI', 'VATSATadjBMI', 'BMI', 'T2D']","['Hip circumference adj BMI', 'Ratio visceral-subcutaneous adipose tissue volume adj BMI', 'BMI', 'Type 2 diabetes']","['ANTHROPOMETRIC', 'GLYCEMIC']","['ANTHROPOMETRIC', 'ANTHROPOMETRIC', 'ANTHROPOMETRIC', 'GLYCEMIC']"
+109,ASAP1,4,"['T2DadjBMI', 'VATadjBMI', 'BMI', 'T2D']","['Type 2 diabetes adj BMI', 'Visceral adipose tissue volume adj BMI', 'BMI', 'Type 2 diabetes']","['ANTHROPOMETRIC', 'GLYCEMIC']","['GLYCEMIC', 'ANTHROPOMETRIC', 'ANTHROPOMETRIC', 'GLYCEMIC']"
+110,EIF3L,4,"['T2DadjBMI', 'VATSATadjBMI', 'BMI', 'T2D']","['Type 2 diabetes adj BMI', 'Ratio visceral-subcutaneous adipose tissue volume adj BMI', 'BMI', 'Type 2 diabetes']","['ANTHROPOMETRIC', 'GLYCEMIC']","['GLYCEMIC', 'ANTHROPOMETRIC', 'ANTHROPOMETRIC', 'GLYCEMIC']"
+111,CCHCR1,4,"['HIPCadjBMI', 'T2DadjBMI', 'BMI', 'T2D']","['Hip circumference adj BMI', 'Type 2 diabetes adj BMI', 'BMI', 'Type 2 diabetes']","['ANTHROPOMETRIC', 'GLYCEMIC']","['ANTHROPOMETRIC', 'GLYCEMIC', 'ANTHROPOMETRIC', 'GLYCEMIC']"
+112,NDE1,4,"['T2DadjBMI', 'FGadjBMI', 'BMI', 'T2D']","['Type 2 diabetes adj BMI', 'Fasting glucose adj BMI', 'BMI', 'Type 2 diabetes']","['ANTHROPOMETRIC', 'GLYCEMIC']","['GLYCEMIC', 'GLYCEMIC', 'ANTHROPOMETRIC', 'GLYCEMIC']"
+113,PPP6R3,4,"['WAISTadjBMI', 'WHRadjBMI', 'BMI', 'T2D']","['Waist circumference adj BMI', 'Waist-hip ratio adj BMI', 'BMI', 'Type 2 diabetes']","['ANTHROPOMETRIC', 'GLYCEMIC']","['ANTHROPOMETRIC', 'ANTHROPOMETRIC', 'ANTHROPOMETRIC', 'GLYCEMIC']"
+114,IPO9,4,"['T2DadjBMI', 'ISenBMI', 'BMI', 'T2D']","['Type 2 diabetes adj BMI', 'Insulin sensitivity adj BMI', 'BMI', 'Type 2 diabetes']","['ANTHROPOMETRIC', 'GLYCEMIC']","['GLYCEMIC', 'GLYCEMIC', 'ANTHROPOMETRIC', 'GLYCEMIC']"
+115,CDK5RAP2,4,"['T2DadjBMI', 'FGadjBMI', 'BMI', 'T2D']","['Type 2 diabetes adj BMI', 'Fasting glucose adj BMI', 'BMI', 'Type 2 diabetes']","['ANTHROPOMETRIC', 'GLYCEMIC']","['GLYCEMIC', 'GLYCEMIC', 'ANTHROPOMETRIC', 'GLYCEMIC']"
+116,PSMA6,4,"['HIPCadjBMI', 'WHRadjBMI', 'FGadjBMI', 'BMI']","['Hip circumference adj BMI', 'Waist-hip ratio adj BMI', 'Fasting glucose adj BMI', 'BMI']","['ANTHROPOMETRIC', 'GLYCEMIC']","['ANTHROPOMETRIC', 'ANTHROPOMETRIC', 'GLYCEMIC', 'ANTHROPOMETRIC']"
+117,IFT46,4,"['T2DadjBMI', 'WHRadjBMI', 'WAISTadjBMI', 'BMI']","['Type 2 diabetes adj BMI', 'Waist-hip ratio adj BMI', 'Waist circumference adj BMI', 'BMI']","['ANTHROPOMETRIC', 'GLYCEMIC']","['GLYCEMIC', 'ANTHROPOMETRIC', 'ANTHROPOMETRIC', 'ANTHROPOMETRIC']"
+118,CCDC47,4,"['HIPCadjBMI', 'WHRadjBMI', 'BMI', 'T2D']","['Hip circumference adj BMI', 'Waist-hip ratio adj BMI', 'BMI', 'Type 2 diabetes']","['ANTHROPOMETRIC', 'GLYCEMIC']","['ANTHROPOMETRIC', 'ANTHROPOMETRIC', 'ANTHROPOMETRIC', 'GLYCEMIC']"
+119,NUFIP2,4,"['T2DadjBMI', 'WHRadjBMI', 'BMI', 'T2D']","['Type 2 diabetes adj BMI', 'Waist-hip ratio adj BMI', 'BMI', 'Type 2 diabetes']","['ANTHROPOMETRIC', 'GLYCEMIC']","['GLYCEMIC', 'ANTHROPOMETRIC', 'ANTHROPOMETRIC', 'GLYCEMIC']"
+120,EXOC4,4,"['T2DadjBMI', 'VATadjBMI', 'BMI', 'T2D']","['Type 2 diabetes adj BMI', 'Visceral adipose tissue volume adj BMI', 'BMI', 'Type 2 diabetes']","['ANTHROPOMETRIC', 'GLYCEMIC']","['GLYCEMIC', 'ANTHROPOMETRIC', 'ANTHROPOMETRIC', 'GLYCEMIC']"
+121,CHPF,4,"['WAISTadjBMI', 'WHRadjBMI', 'VATadjBMI', 'BMI']","['Waist circumference adj BMI', 'Waist-hip ratio adj BMI', 'Visceral adipose tissue volume adj BMI', 'BMI']",['ANTHROPOMETRIC'],"['ANTHROPOMETRIC', 'ANTHROPOMETRIC', 'ANTHROPOMETRIC', 'ANTHROPOMETRIC']"
+122,DYNC2H1,4,"['T2DadjBMI', 'VATadjBMI', 'BMI', 'T2D']","['Type 2 diabetes adj BMI', 'Visceral adipose tissue volume adj BMI', 'BMI', 'Type 2 diabetes']","['ANTHROPOMETRIC', 'GLYCEMIC']","['GLYCEMIC', 'ANTHROPOMETRIC', 'ANTHROPOMETRIC', 'GLYCEMIC']"
+123,WDR78,4,"['T2DadjBMI', 'VATSATadjBMI', 'BMI', 'T2D']","['Type 2 diabetes adj BMI', 'Ratio visceral-subcutaneous adipose tissue volume adj BMI', 'BMI', 'Type 2 diabetes']","['ANTHROPOMETRIC', 'GLYCEMIC']","['GLYCEMIC', 'ANTHROPOMETRIC', 'ANTHROPOMETRIC', 'GLYCEMIC']"
+124,GKAP1,4,"['HIPCadjBMI', 'WHRadjBMI', 'BMI', 'T2D']","['Hip circumference adj BMI', 'Waist-hip ratio adj BMI', 'BMI', 'Type 2 diabetes']","['ANTHROPOMETRIC', 'GLYCEMIC']","['ANTHROPOMETRIC', 'ANTHROPOMETRIC', 'ANTHROPOMETRIC', 'GLYCEMIC']"
+125,ANP32A,4,"['HIPCadjBMI', 'ISenBMI', 'FGadjBMI', 'BMI']","['Hip circumference adj BMI', 'Insulin sensitivity adj BMI', 'Fasting glucose adj BMI', 'BMI']","['ANTHROPOMETRIC', 'GLYCEMIC']","['ANTHROPOMETRIC', 'GLYCEMIC', 'GLYCEMIC', 'ANTHROPOMETRIC']"
+126,CCM2,4,"['WAISTadjBMI', 'VATadjBMI', 'BMI', 'T2D']","['Waist circumference adj BMI', 'Visceral adipose tissue volume adj BMI', 'BMI', 'Type 2 diabetes']","['ANTHROPOMETRIC', 'GLYCEMIC']","['ANTHROPOMETRIC', 'ANTHROPOMETRIC', 'ANTHROPOMETRIC', 'GLYCEMIC']"
+127,PPFIBP1,4,"['T2DadjBMI', 'VATSATadjBMI', 'BMI', 'T2D']","['Type 2 diabetes adj BMI', 'Ratio visceral-subcutaneous adipose tissue volume adj BMI', 'BMI', 'Type 2 diabetes']","['ANTHROPOMETRIC', 'GLYCEMIC']","['GLYCEMIC', 'ANTHROPOMETRIC', 'ANTHROPOMETRIC', 'GLYCEMIC']"
+128,NIPSNAP1,4,"['T2DadjBMI', 'WAISTadjBMI', 'BMI', 'T2D']","['Type 2 diabetes adj BMI', 'Waist circumference adj BMI', 'BMI', 'Type 2 diabetes']","['ANTHROPOMETRIC', 'GLYCEMIC']","['GLYCEMIC', 'ANTHROPOMETRIC', 'ANTHROPOMETRIC', 'GLYCEMIC']"
+129,DGKE,4,"['HIPCadjBMI', 'LEPadjBMI', 'BMI', 'T2D']","['Hip circumference adj BMI', 'Leptin adj BMI', 'BMI', 'Type 2 diabetes']","['LIPIDS', 'ANTHROPOMETRIC', 'GLYCEMIC']","['ANTHROPOMETRIC', 'LIPIDS', 'ANTHROPOMETRIC', 'GLYCEMIC']"
+130,NUMB,4,"['HIPCadjBMI', 'T2DadjBMI', 'BMI', 'T2D']","['Hip circumference adj BMI', 'Type 2 diabetes adj BMI', 'BMI', 'Type 2 diabetes']","['ANTHROPOMETRIC', 'GLYCEMIC']","['ANTHROPOMETRIC', 'GLYCEMIC', 'ANTHROPOMETRIC', 'GLYCEMIC']"
+131,DYNLL1,4,"['WAISTadjBMI', 'WHRadjBMI', 'BMI', 'T2D']","['Waist circumference adj BMI', 'Waist-hip ratio adj BMI', 'BMI', 'Type 2 diabetes']","['ANTHROPOMETRIC', 'GLYCEMIC']","['ANTHROPOMETRIC', 'ANTHROPOMETRIC', 'ANTHROPOMETRIC', 'GLYCEMIC']"
+132,ACTN1,4,"['T2DadjBMI', 'WAISTadjBMI', 'BMI', 'T2D']","['Type 2 diabetes adj BMI', 'Waist circumference adj BMI', 'BMI', 'Type 2 diabetes']","['ANTHROPOMETRIC', 'GLYCEMIC']","['GLYCEMIC', 'ANTHROPOMETRIC', 'ANTHROPOMETRIC', 'GLYCEMIC']"
+133,CEP41,4,"['T2DadjBMI', 'WAISTadjBMI', 'BMI', 'T2D']","['Type 2 diabetes adj BMI', 'Waist circumference adj BMI', 'BMI', 'Type 2 diabetes']","['ANTHROPOMETRIC', 'GLYCEMIC']","['GLYCEMIC', 'ANTHROPOMETRIC', 'ANTHROPOMETRIC', 'GLYCEMIC']"
+134,IFT52,4,"['T2DadjBMI', 'FGadjBMI', 'HIPCadjBMI', 'T2D']","['Type 2 diabetes adj BMI', 'Fasting glucose adj BMI', 'Hip circumference adj BMI', 'Type 2 diabetes']","['ANTHROPOMETRIC', 'GLYCEMIC']","['GLYCEMIC', 'GLYCEMIC', 'ANTHROPOMETRIC', 'GLYCEMIC']"
+135,SCD,4,"['T2DadjBMI', 'LEPadjBMI', 'FGadjBMI', 'T2D']","['Type 2 diabetes adj BMI', 'Leptin adj BMI', 'Fasting glucose adj BMI', 'Type 2 diabetes']","['LIPIDS', 'GLYCEMIC']","['GLYCEMIC', 'LIPIDS', 'GLYCEMIC', 'GLYCEMIC']"
+136,STK3,4,"['VATadjBMI', 'FGadjBMI', 'T2D', 'VATSATadjBMI']","['Visceral adipose tissue volume adj BMI', 'Fasting glucose adj BMI', 'Type 2 diabetes', 'Ratio visceral-subcutaneous adipose tissue volume adj BMI']","['ANTHROPOMETRIC', 'GLYCEMIC']","['ANTHROPOMETRIC', 'GLYCEMIC', 'GLYCEMIC', 'ANTHROPOMETRIC']"
+137,ARMC9,4,"['WAISTadjBMI', 'WHRadjBMI', 'FGadjBMI', 'ISenBMI']","['Waist circumference adj BMI', 'Waist-hip ratio adj BMI', 'Fasting glucose adj BMI', 'Insulin sensitivity adj BMI']","['ANTHROPOMETRIC', 'GLYCEMIC']","['ANTHROPOMETRIC', 'ANTHROPOMETRIC', 'GLYCEMIC', 'GLYCEMIC']"
+138,TTC8,4,"['T2DadjBMI', 'FIadjBMI', 'HIPCadjBMI', 'T2D']","['Type 2 diabetes adj BMI', 'Fasting insulin adj BMI', 'Hip circumference adj BMI', 'Type 2 diabetes']","['ANTHROPOMETRIC', 'GLYCEMIC']","['GLYCEMIC', 'GLYCEMIC', 'ANTHROPOMETRIC', 'GLYCEMIC']"
+139,HAUS8,4,"['T2DadjBMI', 'FIadjBMI', 'WAISTadjBMI', 'T2D']","['Type 2 diabetes adj BMI', 'Fasting insulin adj BMI', 'Waist circumference adj BMI', 'Type 2 diabetes']","['ANTHROPOMETRIC', 'GLYCEMIC']","['GLYCEMIC', 'GLYCEMIC', 'ANTHROPOMETRIC', 'GLYCEMIC']"
+140,VPS53,4,"['T2DadjBMI', 'WAISTadjBMI', 'HIPCadjBMI', 'T2D']","['Type 2 diabetes adj BMI', 'Waist circumference adj BMI', 'Hip circumference adj BMI', 'Type 2 diabetes']","['ANTHROPOMETRIC', 'GLYCEMIC']","['GLYCEMIC', 'ANTHROPOMETRIC', 'ANTHROPOMETRIC', 'GLYCEMIC']"
+141,CEP63,4,"['WAISTadjBMI', 'WHRadjBMI', 'HIPCadjBMI', 'T2D']","['Waist circumference adj BMI', 'Waist-hip ratio adj BMI', 'Hip circumference adj BMI', 'Type 2 diabetes']","['ANTHROPOMETRIC', 'GLYCEMIC']","['ANTHROPOMETRIC', 'ANTHROPOMETRIC', 'ANTHROPOMETRIC', 'GLYCEMIC']"
+142,B9D2,4,"['T2DadjBMI', 'WAISTadjBMI', 'HIPCadjBMI', 'T2D']","['Type 2 diabetes adj BMI', 'Waist circumference adj BMI', 'Hip circumference adj BMI', 'Type 2 diabetes']","['ANTHROPOMETRIC', 'GLYCEMIC']","['GLYCEMIC', 'ANTHROPOMETRIC', 'ANTHROPOMETRIC', 'GLYCEMIC']"
+143,HIST2H2AC,4,"['T2DadjBMI', 'WAISTadjBMI', 'HIPCadjBMI', 'T2D']","['Type 2 diabetes adj BMI', 'Waist circumference adj BMI', 'Hip circumference adj BMI', 'Type 2 diabetes']","['ANTHROPOMETRIC', 'GLYCEMIC']","['GLYCEMIC', 'ANTHROPOMETRIC', 'ANTHROPOMETRIC', 'GLYCEMIC']"
+144,CCDC77,4,"['T2DadjBMI', 'WHRadjBMI', 'HIPCadjBMI', 'T2D']","['Type 2 diabetes adj BMI', 'Waist-hip ratio adj BMI', 'Hip circumference adj BMI', 'Type 2 diabetes']","['ANTHROPOMETRIC', 'GLYCEMIC']","['GLYCEMIC', 'ANTHROPOMETRIC', 'ANTHROPOMETRIC', 'GLYCEMIC']"
+145,RAB11B,4,"['T2DadjBMI', 'VATSATadjBMI', 'HIPCadjBMI', 'T2D']","['Type 2 diabetes adj BMI', 'Ratio visceral-subcutaneous adipose tissue volume adj BMI', 'Hip circumference adj BMI', 'Type 2 diabetes']","['ANTHROPOMETRIC', 'GLYCEMIC']","['GLYCEMIC', 'ANTHROPOMETRIC', 'ANTHROPOMETRIC', 'GLYCEMIC']"
+146,EXOC2,4,"['T2DadjBMI', 'LEPadjBMI', 'T2D', 'VATSATadjBMI']","['Type 2 diabetes adj BMI', 'Leptin adj BMI', 'Type 2 diabetes', 'Ratio visceral-subcutaneous adipose tissue volume adj BMI']","['LIPIDS', 'ANTHROPOMETRIC', 'GLYCEMIC']","['GLYCEMIC', 'LIPIDS', 'GLYCEMIC', 'ANTHROPOMETRIC']"
+147,ACTR10,4,"['T2DadjBMI', 'WHRadjBMI', 'VATadjBMI', 'T2D']","['Type 2 diabetes adj BMI', 'Waist-hip ratio adj BMI', 'Visceral adipose tissue volume adj BMI', 'Type 2 diabetes']","['ANTHROPOMETRIC', 'GLYCEMIC']","['GLYCEMIC', 'ANTHROPOMETRIC', 'ANTHROPOMETRIC', 'GLYCEMIC']"
+148,SLAIN2,4,"['T2DadjBMI', 'WHRadjBMI', 'WAISTadjBMI', 'T2D']","['Type 2 diabetes adj BMI', 'Waist-hip ratio adj BMI', 'Waist circumference adj BMI', 'Type 2 diabetes']","['ANTHROPOMETRIC', 'GLYCEMIC']","['GLYCEMIC', 'ANTHROPOMETRIC', 'ANTHROPOMETRIC', 'GLYCEMIC']"
+149,PHLDB2,4,"['WAISTadjBMI', 'WHRadjBMI', 'VATadjBMI', 'VATSATadjBMI']","['Waist circumference adj BMI', 'Waist-hip ratio adj BMI', 'Visceral adipose tissue volume adj BMI', 'Ratio visceral-subcutaneous adipose tissue volume adj BMI']",['ANTHROPOMETRIC'],"['ANTHROPOMETRIC', 'ANTHROPOMETRIC', 'ANTHROPOMETRIC', 'ANTHROPOMETRIC']"
+150,ACTR1B,3,"['FIadjBMI', 'WHRadjBMI', 'BMI']","['Fasting insulin adj BMI', 'Waist-hip ratio adj BMI', 'BMI']","['ANTHROPOMETRIC', 'GLYCEMIC']","['GLYCEMIC', 'ANTHROPOMETRIC', 'ANTHROPOMETRIC']"
+151,TUBB3,3,"['HIPCadjBMI', 'WAISTadjBMI', 'BMI']","['Hip circumference adj BMI', 'Waist circumference adj BMI', 'BMI']",['ANTHROPOMETRIC'],"['ANTHROPOMETRIC', 'ANTHROPOMETRIC', 'ANTHROPOMETRIC']"
+152,IPO7,3,"['T2DadjBMI', 'BMI', 'T2D']","['Type 2 diabetes adj BMI', 'BMI', 'Type 2 diabetes']","['ANTHROPOMETRIC', 'GLYCEMIC']","['GLYCEMIC', 'ANTHROPOMETRIC', 'GLYCEMIC']"
+153,CCT2,3,"['HIPCadjBMI', 'BMI', 'T2D']","['Hip circumference adj BMI', 'BMI', 'Type 2 diabetes']","['ANTHROPOMETRIC', 'GLYCEMIC']","['ANTHROPOMETRIC', 'ANTHROPOMETRIC', 'GLYCEMIC']"
+154,SORBS1,3,"['T2DadjBMI', 'BMI', 'VATSATadjBMI']","['Type 2 diabetes adj BMI', 'BMI', 'Ratio visceral-subcutaneous adipose tissue volume adj BMI']","['ANTHROPOMETRIC', 'GLYCEMIC']","['GLYCEMIC', 'ANTHROPOMETRIC', 'ANTHROPOMETRIC']"
+155,PRPF8,3,"['T2DadjBMI', 'BMI', 'T2D']","['Type 2 diabetes adj BMI', 'BMI', 'Type 2 diabetes']","['ANTHROPOMETRIC', 'GLYCEMIC']","['GLYCEMIC', 'ANTHROPOMETRIC', 'GLYCEMIC']"
+156,PNPLA6,3,"['VATSATadjBMI', 'BMI', 'T2D']","['Ratio visceral-subcutaneous adipose tissue volume adj BMI', 'BMI', 'Type 2 diabetes']","['ANTHROPOMETRIC', 'GLYCEMIC']","['ANTHROPOMETRIC', 'ANTHROPOMETRIC', 'GLYCEMIC']"
+157,PRDX3,3,"['WAISTadjBMI', 'WHRadjBMI', 'BMI']","['Waist circumference adj BMI', 'Waist-hip ratio adj BMI', 'BMI']",['ANTHROPOMETRIC'],"['ANTHROPOMETRIC', 'ANTHROPOMETRIC', 'ANTHROPOMETRIC']"
+158,AP3M2,3,"['T2DadjBMI', 'BMI', 'T2D']","['Type 2 diabetes adj BMI', 'BMI', 'Type 2 diabetes']","['ANTHROPOMETRIC', 'GLYCEMIC']","['GLYCEMIC', 'ANTHROPOMETRIC', 'GLYCEMIC']"
+159,ERP29,3,"['T2DadjBMI', 'WAISTadjBMI', 'BMI']","['Type 2 diabetes adj BMI', 'Waist circumference adj BMI', 'BMI']","['ANTHROPOMETRIC', 'GLYCEMIC']","['GLYCEMIC', 'ANTHROPOMETRIC', 'ANTHROPOMETRIC']"
+160,MAPRE2,3,"['VATadjBMI', 'BMI', 'VATSATadjBMI']","['Visceral adipose tissue volume adj BMI', 'BMI', 'Ratio visceral-subcutaneous adipose tissue volume adj BMI']",['ANTHROPOMETRIC'],"['ANTHROPOMETRIC', 'ANTHROPOMETRIC', 'ANTHROPOMETRIC']"
+161,RAB35,3,"['LEPadjBMI', 'BMI', 'T2D']","['Leptin adj BMI', 'BMI', 'Type 2 diabetes']","['LIPIDS', 'ANTHROPOMETRIC', 'GLYCEMIC']","['LIPIDS', 'ANTHROPOMETRIC', 'GLYCEMIC']"
+162,CNTRL,3,"['ISenBMI', 'BMI', 'T2D']","['Insulin sensitivity adj BMI', 'BMI', 'Type 2 diabetes']","['ANTHROPOMETRIC', 'GLYCEMIC']","['GLYCEMIC', 'ANTHROPOMETRIC', 'GLYCEMIC']"
+163,FGFR1OP,3,"['T2DadjBMI', 'BMI', 'T2D']","['Type 2 diabetes adj BMI', 'BMI', 'Type 2 diabetes']","['ANTHROPOMETRIC', 'GLYCEMIC']","['GLYCEMIC', 'ANTHROPOMETRIC', 'GLYCEMIC']"
+164,CLTC,3,"['T2DadjBMI', 'WHRadjBMI', 'BMI']","['Type 2 diabetes adj BMI', 'Waist-hip ratio adj BMI', 'BMI']","['ANTHROPOMETRIC', 'GLYCEMIC']","['GLYCEMIC', 'ANTHROPOMETRIC', 'ANTHROPOMETRIC']"
+165,EVC2,3,"['T2DadjBMI', 'BMI', 'T2D']","['Type 2 diabetes adj BMI', 'BMI', 'Type 2 diabetes']","['ANTHROPOMETRIC', 'GLYCEMIC']","['GLYCEMIC', 'ANTHROPOMETRIC', 'GLYCEMIC']"
+166,PACRG,3,"['T2DadjBMI', 'BMI', 'T2D']","['Type 2 diabetes adj BMI', 'BMI', 'Type 2 diabetes']","['ANTHROPOMETRIC', 'GLYCEMIC']","['GLYCEMIC', 'ANTHROPOMETRIC', 'GLYCEMIC']"
+167,CPD,3,"['T2DadjBMI', 'FGadjBMI', 'BMI']","['Type 2 diabetes adj BMI', 'Fasting glucose adj BMI', 'BMI']","['ANTHROPOMETRIC', 'GLYCEMIC']","['GLYCEMIC', 'GLYCEMIC', 'ANTHROPOMETRIC']"
+168,BRI3BP,3,"['T2DadjBMI', 'BMI', 'T2D']","['Type 2 diabetes adj BMI', 'BMI', 'Type 2 diabetes']","['ANTHROPOMETRIC', 'GLYCEMIC']","['GLYCEMIC', 'ANTHROPOMETRIC', 'GLYCEMIC']"
+169,WDR66,3,"['HIPCadjBMI', 'WHRadjBMI', 'BMI']","['Hip circumference adj BMI', 'Waist-hip ratio adj BMI', 'BMI']",['ANTHROPOMETRIC'],"['ANTHROPOMETRIC', 'ANTHROPOMETRIC', 'ANTHROPOMETRIC']"
+170,DNAH2,3,"['T2DadjBMI', 'BMI', 'T2D']","['Type 2 diabetes adj BMI', 'BMI', 'Type 2 diabetes']","['ANTHROPOMETRIC', 'GLYCEMIC']","['GLYCEMIC', 'ANTHROPOMETRIC', 'GLYCEMIC']"
+171,CTNNB1,3,"['WAISTadjBMI', 'VATadjBMI', 'BMI']","['Waist circumference adj BMI', 'Visceral adipose tissue volume adj BMI', 'BMI']",['ANTHROPOMETRIC'],"['ANTHROPOMETRIC', 'ANTHROPOMETRIC', 'ANTHROPOMETRIC']"
+172,SPICE1,3,"['T2DadjBMI', 'BMI', 'T2D']","['Type 2 diabetes adj BMI', 'BMI', 'Type 2 diabetes']","['ANTHROPOMETRIC', 'GLYCEMIC']","['GLYCEMIC', 'ANTHROPOMETRIC', 'GLYCEMIC']"
+173,TTLL9,3,"['HIPCadjBMI', 'BMI', 'T2D']","['Hip circumference adj BMI', 'BMI', 'Type 2 diabetes']","['ANTHROPOMETRIC', 'GLYCEMIC']","['ANTHROPOMETRIC', 'ANTHROPOMETRIC', 'GLYCEMIC']"
+174,ARL13B,3,"['VATadjBMI', 'BMI', 'T2D']","['Visceral adipose tissue volume adj BMI', 'BMI', 'Type 2 diabetes']","['ANTHROPOMETRIC', 'GLYCEMIC']","['ANTHROPOMETRIC', 'ANTHROPOMETRIC', 'GLYCEMIC']"
+175,LRRC45,3,"['HIPCadjBMI', 'BMI', 'T2D']","['Hip circumference adj BMI', 'BMI', 'Type 2 diabetes']","['ANTHROPOMETRIC', 'GLYCEMIC']","['ANTHROPOMETRIC', 'ANTHROPOMETRIC', 'GLYCEMIC']"
+176,TCTE1,3,"['WAISTadjBMI', 'LEPadjBMI', 'BMI']","['Waist circumference adj BMI', 'Leptin adj BMI', 'BMI']","['LIPIDS', 'ANTHROPOMETRIC']","['ANTHROPOMETRIC', 'LIPIDS', 'ANTHROPOMETRIC']"
+177,AKT2,3,"['WAISTadjBMI', 'WHRadjBMI', 'BMI']","['Waist circumference adj BMI', 'Waist-hip ratio adj BMI', 'BMI']",['ANTHROPOMETRIC'],"['ANTHROPOMETRIC', 'ANTHROPOMETRIC', 'ANTHROPOMETRIC']"
+178,EWSR1,3,"['HIPCadjBMI', 'BMI', 'T2D']","['Hip circumference adj BMI', 'BMI', 'Type 2 diabetes']","['ANTHROPOMETRIC', 'GLYCEMIC']","['ANTHROPOMETRIC', 'ANTHROPOMETRIC', 'GLYCEMIC']"
+179,FASN,3,"['HIPCadjBMI', 'WAISTadjBMI', 'BMI']","['Hip circumference adj BMI', 'Waist circumference adj BMI', 'BMI']",['ANTHROPOMETRIC'],"['ANTHROPOMETRIC', 'ANTHROPOMETRIC', 'ANTHROPOMETRIC']"
+180,HYLS1,3,"['T2DadjBMI', 'BMI', 'T2D']","['Type 2 diabetes adj BMI', 'BMI', 'Type 2 diabetes']","['ANTHROPOMETRIC', 'GLYCEMIC']","['GLYCEMIC', 'ANTHROPOMETRIC', 'GLYCEMIC']"
+181,ICK,3,"['HIPCadjBMI', 'BMI', 'T2D']","['Hip circumference adj BMI', 'BMI', 'Type 2 diabetes']","['ANTHROPOMETRIC', 'GLYCEMIC']","['ANTHROPOMETRIC', 'ANTHROPOMETRIC', 'GLYCEMIC']"
+182,DHX30,3,"['T2DadjBMI', 'BMI', 'T2D']","['Type 2 diabetes adj BMI', 'BMI', 'Type 2 diabetes']","['ANTHROPOMETRIC', 'GLYCEMIC']","['GLYCEMIC', 'ANTHROPOMETRIC', 'GLYCEMIC']"
+183,MAPRE3,3,"['T2DadjBMI', 'BMI', 'T2D']","['Type 2 diabetes adj BMI', 'BMI', 'Type 2 diabetes']","['ANTHROPOMETRIC', 'GLYCEMIC']","['GLYCEMIC', 'ANTHROPOMETRIC', 'GLYCEMIC']"
+184,KDM1A,3,"['T2DadjBMI', 'WAISTadjBMI', 'BMI']","['Type 2 diabetes adj BMI', 'Waist circumference adj BMI', 'BMI']","['ANTHROPOMETRIC', 'GLYCEMIC']","['GLYCEMIC', 'ANTHROPOMETRIC', 'ANTHROPOMETRIC']"
+185,XPO7,3,"['T2DadjBMI', 'BMI', 'T2D']","['Type 2 diabetes adj BMI', 'BMI', 'Type 2 diabetes']","['ANTHROPOMETRIC', 'GLYCEMIC']","['GLYCEMIC', 'ANTHROPOMETRIC', 'GLYCEMIC']"
+186,TNIK,3,"['T2DadjBMI', 'BMI', 'T2D']","['Type 2 diabetes adj BMI', 'BMI', 'Type 2 diabetes']","['ANTHROPOMETRIC', 'GLYCEMIC']","['GLYCEMIC', 'ANTHROPOMETRIC', 'GLYCEMIC']"
+187,ZSWIM8,3,"['T2DadjBMI', 'BMI', 'T2D']","['Type 2 diabetes adj BMI', 'BMI', 'Type 2 diabetes']","['ANTHROPOMETRIC', 'GLYCEMIC']","['GLYCEMIC', 'ANTHROPOMETRIC', 'GLYCEMIC']"
+188,CLUAP1,3,"['T2DadjBMI', 'BMI', 'T2D']","['Type 2 diabetes adj BMI', 'BMI', 'Type 2 diabetes']","['ANTHROPOMETRIC', 'GLYCEMIC']","['GLYCEMIC', 'ANTHROPOMETRIC', 'GLYCEMIC']"
+189,IQCE,3,"['FIadjBMI', 'BMI', 'T2D']","['Fasting insulin adj BMI', 'BMI', 'Type 2 diabetes']","['ANTHROPOMETRIC', 'GLYCEMIC']","['GLYCEMIC', 'ANTHROPOMETRIC', 'GLYCEMIC']"
+190,DNAJC13,3,"['WAISTadjBMI', 'WHRadjBMI', 'BMI']","['Waist circumference adj BMI', 'Waist-hip ratio adj BMI', 'BMI']",['ANTHROPOMETRIC'],"['ANTHROPOMETRIC', 'ANTHROPOMETRIC', 'ANTHROPOMETRIC']"
+191,OBSL1,3,"['VATadjBMI', 'BMI', 'VATSATadjBMI']","['Visceral adipose tissue volume adj BMI', 'BMI', 'Ratio visceral-subcutaneous adipose tissue volume adj BMI']",['ANTHROPOMETRIC'],"['ANTHROPOMETRIC', 'ANTHROPOMETRIC', 'ANTHROPOMETRIC']"
+192,AIPL1,3,"['T2DadjBMI', 'BMI', 'T2D']","['Type 2 diabetes adj BMI', 'BMI', 'Type 2 diabetes']","['ANTHROPOMETRIC', 'GLYCEMIC']","['GLYCEMIC', 'ANTHROPOMETRIC', 'GLYCEMIC']"
+193,DPCD,3,"['T2DadjBMI', 'BMI', 'T2D']","['Type 2 diabetes adj BMI', 'BMI', 'Type 2 diabetes']","['ANTHROPOMETRIC', 'GLYCEMIC']","['GLYCEMIC', 'ANTHROPOMETRIC', 'GLYCEMIC']"
+194,GORASP2,3,"['ISenBMI', 'FGadjBMI', 'BMI']","['Insulin sensitivity adj BMI', 'Fasting glucose adj BMI', 'BMI']","['ANTHROPOMETRIC', 'GLYCEMIC']","['GLYCEMIC', 'GLYCEMIC', 'ANTHROPOMETRIC']"
+195,C2CD3,3,"['T2DadjBMI', 'BMI', 'T2D']","['Type 2 diabetes adj BMI', 'BMI', 'Type 2 diabetes']","['ANTHROPOMETRIC', 'GLYCEMIC']","['GLYCEMIC', 'ANTHROPOMETRIC', 'GLYCEMIC']"
+196,DNAI1,3,"['T2DadjBMI', 'BMI', 'T2D']","['Type 2 diabetes adj BMI', 'BMI', 'Type 2 diabetes']","['ANTHROPOMETRIC', 'GLYCEMIC']","['GLYCEMIC', 'ANTHROPOMETRIC', 'GLYCEMIC']"
+197,NPHP3,3,"['WAISTadjBMI', 'BMI', 'T2D']","['Waist circumference adj BMI', 'BMI', 'Type 2 diabetes']","['ANTHROPOMETRIC', 'GLYCEMIC']","['ANTHROPOMETRIC', 'ANTHROPOMETRIC', 'GLYCEMIC']"
+198,CACYBP,3,"['T2DadjBMI', 'BMI', 'T2D']","['Type 2 diabetes adj BMI', 'BMI', 'Type 2 diabetes']","['ANTHROPOMETRIC', 'GLYCEMIC']","['GLYCEMIC', 'ANTHROPOMETRIC', 'GLYCEMIC']"
+199,INVS,3,"['T2DadjBMI', 'BMI', 'T2D']","['Type 2 diabetes adj BMI', 'BMI', 'Type 2 diabetes']","['ANTHROPOMETRIC', 'GLYCEMIC']","['GLYCEMIC', 'ANTHROPOMETRIC', 'GLYCEMIC']"
+200,TUBGCP4,3,"['LEPadjBMI', 'BMI', 'T2D']","['Leptin adj BMI', 'BMI', 'Type 2 diabetes']","['LIPIDS', 'ANTHROPOMETRIC', 'GLYCEMIC']","['LIPIDS', 'ANTHROPOMETRIC', 'GLYCEMIC']"
+201,EML4,3,"['WHRadjBMI', 'VATadjBMI', 'BMI']","['Waist-hip ratio adj BMI', 'Visceral adipose tissue volume adj BMI', 'BMI']",['ANTHROPOMETRIC'],"['ANTHROPOMETRIC', 'ANTHROPOMETRIC', 'ANTHROPOMETRIC']"
+202,GNAI3,3,"['T2DadjBMI', 'BMI', 'T2D']","['Type 2 diabetes adj BMI', 'BMI', 'Type 2 diabetes']","['ANTHROPOMETRIC', 'GLYCEMIC']","['GLYCEMIC', 'ANTHROPOMETRIC', 'GLYCEMIC']"
+203,POC1B,3,"['HIPCadjBMI', 'FIadjBMI', 'BMI']","['Hip circumference adj BMI', 'Fasting insulin adj BMI', 'BMI']","['ANTHROPOMETRIC', 'GLYCEMIC']","['ANTHROPOMETRIC', 'GLYCEMIC', 'ANTHROPOMETRIC']"
+204,GSK3B,3,"['T2DadjBMI', 'BMI', 'T2D']","['Type 2 diabetes adj BMI', 'BMI', 'Type 2 diabetes']","['ANTHROPOMETRIC', 'GLYCEMIC']","['GLYCEMIC', 'ANTHROPOMETRIC', 'GLYCEMIC']"
+205,CNOT7,3,"['ISenBMI', 'FGadjBMI', 'BMI']","['Insulin sensitivity adj BMI', 'Fasting glucose adj BMI', 'BMI']","['ANTHROPOMETRIC', 'GLYCEMIC']","['GLYCEMIC', 'GLYCEMIC', 'ANTHROPOMETRIC']"
+206,TEX9,3,"['WAISTadjBMI', 'WHRadjBMI', 'BMI']","['Waist circumference adj BMI', 'Waist-hip ratio adj BMI', 'BMI']",['ANTHROPOMETRIC'],"['ANTHROPOMETRIC', 'ANTHROPOMETRIC', 'ANTHROPOMETRIC']"
+207,KIF2A,3,"['T2DadjBMI', 'BMI', 'T2D']","['Type 2 diabetes adj BMI', 'BMI', 'Type 2 diabetes']","['ANTHROPOMETRIC', 'GLYCEMIC']","['GLYCEMIC', 'ANTHROPOMETRIC', 'GLYCEMIC']"
+208,TNPO1,3,"['T2DadjBMI', 'BMI', 'T2D']","['Type 2 diabetes adj BMI', 'BMI', 'Type 2 diabetes']","['ANTHROPOMETRIC', 'GLYCEMIC']","['GLYCEMIC', 'ANTHROPOMETRIC', 'GLYCEMIC']"
+209,CCDC103,3,"['T2DadjBMI', 'BMI', 'T2D']","['Type 2 diabetes adj BMI', 'BMI', 'Type 2 diabetes']","['ANTHROPOMETRIC', 'GLYCEMIC']","['GLYCEMIC', 'ANTHROPOMETRIC', 'GLYCEMIC']"
+210,KTN1,3,"['HIPCadjBMI', 'WHRadjBMI', 'BMI']","['Hip circumference adj BMI', 'Waist-hip ratio adj BMI', 'BMI']",['ANTHROPOMETRIC'],"['ANTHROPOMETRIC', 'ANTHROPOMETRIC', 'ANTHROPOMETRIC']"
+211,LMO7,3,"['T2DadjBMI', 'BMI', 'T2D']","['Type 2 diabetes adj BMI', 'BMI', 'Type 2 diabetes']","['ANTHROPOMETRIC', 'GLYCEMIC']","['GLYCEMIC', 'ANTHROPOMETRIC', 'GLYCEMIC']"
+212,WDR38,3,"['T2DadjBMI', 'BMI', 'T2D']","['Type 2 diabetes adj BMI', 'BMI', 'Type 2 diabetes']","['ANTHROPOMETRIC', 'GLYCEMIC']","['GLYCEMIC', 'ANTHROPOMETRIC', 'GLYCEMIC']"
+213,ARL2,3,"['T2DadjBMI', 'BMI', 'T2D']","['Type 2 diabetes adj BMI', 'BMI', 'Type 2 diabetes']","['ANTHROPOMETRIC', 'GLYCEMIC']","['GLYCEMIC', 'ANTHROPOMETRIC', 'GLYCEMIC']"
+214,NAP1L4,3,"['T2DadjBMI', 'BMI', 'T2D']","['Type 2 diabetes adj BMI', 'BMI', 'Type 2 diabetes']","['ANTHROPOMETRIC', 'GLYCEMIC']","['GLYCEMIC', 'ANTHROPOMETRIC', 'GLYCEMIC']"
+215,PDCL,3,"['T2DadjBMI', 'BMI', 'T2D']","['Type 2 diabetes adj BMI', 'BMI', 'Type 2 diabetes']","['ANTHROPOMETRIC', 'GLYCEMIC']","['GLYCEMIC', 'ANTHROPOMETRIC', 'GLYCEMIC']"
+216,PCNT,3,"['T2DadjBMI', 'BMI', 'T2D']","['Type 2 diabetes adj BMI', 'BMI', 'Type 2 diabetes']","['ANTHROPOMETRIC', 'GLYCEMIC']","['GLYCEMIC', 'ANTHROPOMETRIC', 'GLYCEMIC']"
+217,TUBD1,3,"['T2DadjBMI', 'WAISTadjBMI', 'BMI']","['Type 2 diabetes adj BMI', 'Waist circumference adj BMI', 'BMI']","['ANTHROPOMETRIC', 'GLYCEMIC']","['GLYCEMIC', 'ANTHROPOMETRIC', 'ANTHROPOMETRIC']"
+218,TMEM216,3,"['VATadjBMI', 'BMI', 'T2D']","['Visceral adipose tissue volume adj BMI', 'BMI', 'Type 2 diabetes']","['ANTHROPOMETRIC', 'GLYCEMIC']","['ANTHROPOMETRIC', 'ANTHROPOMETRIC', 'GLYCEMIC']"
+219,LIMA1,3,"['HIPCadjBMI', 'BMI', 'T2D']","['Hip circumference adj BMI', 'BMI', 'Type 2 diabetes']","['ANTHROPOMETRIC', 'GLYCEMIC']","['ANTHROPOMETRIC', 'ANTHROPOMETRIC', 'GLYCEMIC']"
+220,TMEM138,3,"['FIadjBMI', 'BMI', 'T2D']","['Fasting insulin adj BMI', 'BMI', 'Type 2 diabetes']","['ANTHROPOMETRIC', 'GLYCEMIC']","['GLYCEMIC', 'ANTHROPOMETRIC', 'GLYCEMIC']"
+221,RAB14,3,"['ISenBMI', 'BMI', 'T2D']","['Insulin sensitivity adj BMI', 'BMI', 'Type 2 diabetes']","['ANTHROPOMETRIC', 'GLYCEMIC']","['GLYCEMIC', 'ANTHROPOMETRIC', 'GLYCEMIC']"
+222,RAB23,3,"['T2DadjBMI', 'BMI', 'T2D']","['Type 2 diabetes adj BMI', 'BMI', 'Type 2 diabetes']","['ANTHROPOMETRIC', 'GLYCEMIC']","['GLYCEMIC', 'ANTHROPOMETRIC', 'GLYCEMIC']"
+223,HYDIN,3,"['LEPadjBMI', 'BMI', 'T2D']","['Leptin adj BMI', 'BMI', 'Type 2 diabetes']","['LIPIDS', 'ANTHROPOMETRIC', 'GLYCEMIC']","['LIPIDS', 'ANTHROPOMETRIC', 'GLYCEMIC']"
+224,BBS7,3,"['HIPCadjBMI', 'BMI', 'T2D']","['Hip circumference adj BMI', 'BMI', 'Type 2 diabetes']","['ANTHROPOMETRIC', 'GLYCEMIC']","['ANTHROPOMETRIC', 'ANTHROPOMETRIC', 'GLYCEMIC']"
+225,UBA6,3,"['T2DadjBMI', 'BMI', 'T2D']","['Type 2 diabetes adj BMI', 'BMI', 'Type 2 diabetes']","['ANTHROPOMETRIC', 'GLYCEMIC']","['GLYCEMIC', 'ANTHROPOMETRIC', 'GLYCEMIC']"
+226,PPP2R5C,3,"['T2DadjBMI', 'BMI', 'T2D']","['Type 2 diabetes adj BMI', 'BMI', 'Type 2 diabetes']","['ANTHROPOMETRIC', 'GLYCEMIC']","['GLYCEMIC', 'ANTHROPOMETRIC', 'GLYCEMIC']"
+227,MNS1,3,"['WAISTadjBMI', 'WHRadjBMI', 'BMI']","['Waist circumference adj BMI', 'Waist-hip ratio adj BMI', 'BMI']",['ANTHROPOMETRIC'],"['ANTHROPOMETRIC', 'ANTHROPOMETRIC', 'ANTHROPOMETRIC']"
+228,ENAH,3,"['WAISTadjBMI', 'BMI', 'T2D']","['Waist circumference adj BMI', 'BMI', 'Type 2 diabetes']","['ANTHROPOMETRIC', 'GLYCEMIC']","['ANTHROPOMETRIC', 'ANTHROPOMETRIC', 'GLYCEMIC']"
+229,KIZ,3,"['HIPCadjBMI', 'WHRadjBMI', 'BMI']","['Hip circumference adj BMI', 'Waist-hip ratio adj BMI', 'BMI']",['ANTHROPOMETRIC'],"['ANTHROPOMETRIC', 'ANTHROPOMETRIC', 'ANTHROPOMETRIC']"
+230,PARD3,3,"['WAISTadjBMI', 'BMI', 'T2D']","['Waist circumference adj BMI', 'BMI', 'Type 2 diabetes']","['ANTHROPOMETRIC', 'GLYCEMIC']","['ANTHROPOMETRIC', 'ANTHROPOMETRIC', 'GLYCEMIC']"
+231,PSMC5,3,"['HIPCadjBMI', 'BMI', 'T2D']","['Hip circumference adj BMI', 'BMI', 'Type 2 diabetes']","['ANTHROPOMETRIC', 'GLYCEMIC']","['ANTHROPOMETRIC', 'ANTHROPOMETRIC', 'GLYCEMIC']"
+232,PSMD2,3,"['HIPCadjBMI', 'BMI', 'T2D']","['Hip circumference adj BMI', 'BMI', 'Type 2 diabetes']","['ANTHROPOMETRIC', 'GLYCEMIC']","['ANTHROPOMETRIC', 'ANTHROPOMETRIC', 'GLYCEMIC']"
+233,RTN4,3,"['T2DadjBMI', 'BMI', 'T2D']","['Type 2 diabetes adj BMI', 'BMI', 'Type 2 diabetes']","['ANTHROPOMETRIC', 'GLYCEMIC']","['GLYCEMIC', 'ANTHROPOMETRIC', 'GLYCEMIC']"
+234,PSMD13,3,"['WAISTadjBMI', 'WHRadjBMI', 'BMI']","['Waist circumference adj BMI', 'Waist-hip ratio adj BMI', 'BMI']",['ANTHROPOMETRIC'],"['ANTHROPOMETRIC', 'ANTHROPOMETRIC', 'ANTHROPOMETRIC']"
+235,WDR48,3,"['T2DadjBMI', 'BMI', 'T2D']","['Type 2 diabetes adj BMI', 'BMI', 'Type 2 diabetes']","['ANTHROPOMETRIC', 'GLYCEMIC']","['GLYCEMIC', 'ANTHROPOMETRIC', 'GLYCEMIC']"
+236,CAMSAP3,3,"['T2DadjBMI', 'BMI', 'T2D']","['Type 2 diabetes adj BMI', 'BMI', 'Type 2 diabetes']","['ANTHROPOMETRIC', 'GLYCEMIC']","['GLYCEMIC', 'ANTHROPOMETRIC', 'GLYCEMIC']"
+237,BBS2,3,"['T2DadjBMI', 'BMI', 'T2D']","['Type 2 diabetes adj BMI', 'BMI', 'Type 2 diabetes']","['ANTHROPOMETRIC', 'GLYCEMIC']","['GLYCEMIC', 'ANTHROPOMETRIC', 'GLYCEMIC']"
+238,BBS4,3,"['WHRadjBMI', 'BMI', 'T2D']","['Waist-hip ratio adj BMI', 'BMI', 'Type 2 diabetes']","['ANTHROPOMETRIC', 'GLYCEMIC']","['ANTHROPOMETRIC', 'ANTHROPOMETRIC', 'GLYCEMIC']"
+239,RANBP1,3,"['T2DadjBMI', 'BMI', 'T2D']","['Type 2 diabetes adj BMI', 'BMI', 'Type 2 diabetes']","['ANTHROPOMETRIC', 'GLYCEMIC']","['GLYCEMIC', 'ANTHROPOMETRIC', 'GLYCEMIC']"
+240,AGBL5,3,"['T2DadjBMI', 'BMI', 'T2D']","['Type 2 diabetes adj BMI', 'BMI', 'Type 2 diabetes']","['ANTHROPOMETRIC', 'GLYCEMIC']","['GLYCEMIC', 'ANTHROPOMETRIC', 'GLYCEMIC']"
+241,CCDC14,3,"['T2DadjBMI', 'VATadjBMI', 'BMI']","['Type 2 diabetes adj BMI', 'Visceral adipose tissue volume adj BMI', 'BMI']","['ANTHROPOMETRIC', 'GLYCEMIC']","['GLYCEMIC', 'ANTHROPOMETRIC', 'ANTHROPOMETRIC']"
+242,STIL,3,"['HIPCadjBMI', 'BMI', 'T2D']","['Hip circumference adj BMI', 'BMI', 'Type 2 diabetes']","['ANTHROPOMETRIC', 'GLYCEMIC']","['ANTHROPOMETRIC', 'ANTHROPOMETRIC', 'GLYCEMIC']"
+243,VPS33A,3,"['HIPCadjBMI', 'BMI', 'T2D']","['Hip circumference adj BMI', 'BMI', 'Type 2 diabetes']","['ANTHROPOMETRIC', 'GLYCEMIC']","['ANTHROPOMETRIC', 'ANTHROPOMETRIC', 'GLYCEMIC']"
+244,STIM1,3,"['T2DadjBMI', 'BMI', 'T2D']","['Type 2 diabetes adj BMI', 'BMI', 'Type 2 diabetes']","['ANTHROPOMETRIC', 'GLYCEMIC']","['GLYCEMIC', 'ANTHROPOMETRIC', 'GLYCEMIC']"
+245,VAMP2,3,"['T2DadjBMI', 'BMI', 'T2D']","['Type 2 diabetes adj BMI', 'BMI', 'Type 2 diabetes']","['ANTHROPOMETRIC', 'GLYCEMIC']","['GLYCEMIC', 'ANTHROPOMETRIC', 'GLYCEMIC']"
+246,TLN1,3,"['T2DadjBMI', 'BMI', 'T2D']","['Type 2 diabetes adj BMI', 'BMI', 'Type 2 diabetes']","['ANTHROPOMETRIC', 'GLYCEMIC']","['GLYCEMIC', 'ANTHROPOMETRIC', 'GLYCEMIC']"
+247,TP53,3,"['T2DadjBMI', 'BMI', 'T2D']","['Type 2 diabetes adj BMI', 'BMI', 'Type 2 diabetes']","['ANTHROPOMETRIC', 'GLYCEMIC']","['GLYCEMIC', 'ANTHROPOMETRIC', 'GLYCEMIC']"
+248,TSC2,3,"['WAISTadjBMI', 'WHRadjBMI', 'BMI']","['Waist circumference adj BMI', 'Waist-hip ratio adj BMI', 'BMI']",['ANTHROPOMETRIC'],"['ANTHROPOMETRIC', 'ANTHROPOMETRIC', 'ANTHROPOMETRIC']"
+249,USH2A,3,"['VATSATadjBMI', 'BMI', 'T2D']","['Ratio visceral-subcutaneous adipose tissue volume adj BMI', 'BMI', 'Type 2 diabetes']","['ANTHROPOMETRIC', 'GLYCEMIC']","['ANTHROPOMETRIC', 'ANTHROPOMETRIC', 'GLYCEMIC']"
+250,VCL,3,"['LEPadjBMI', 'BMI', 'T2D']","['Leptin adj BMI', 'BMI', 'Type 2 diabetes']","['LIPIDS', 'ANTHROPOMETRIC', 'GLYCEMIC']","['LIPIDS', 'ANTHROPOMETRIC', 'GLYCEMIC']"
+251,VTN,3,"['T2DadjBMI', 'BMI', 'T2D']","['Type 2 diabetes adj BMI', 'BMI', 'Type 2 diabetes']","['ANTHROPOMETRIC', 'GLYCEMIC']","['GLYCEMIC', 'ANTHROPOMETRIC', 'GLYCEMIC']"
+252,YWHAH,3,"['T2DadjBMI', 'BMI', 'T2D']","['Type 2 diabetes adj BMI', 'BMI', 'Type 2 diabetes']","['ANTHROPOMETRIC', 'GLYCEMIC']","['GLYCEMIC', 'ANTHROPOMETRIC', 'GLYCEMIC']"
+253,YWHAZ,3,"['T2DadjBMI', 'LEPadjBMI', 'BMI']","['Type 2 diabetes adj BMI', 'Leptin adj BMI', 'BMI']","['LIPIDS', 'ANTHROPOMETRIC', 'GLYCEMIC']","['GLYCEMIC', 'LIPIDS', 'ANTHROPOMETRIC']"
+254,SPAG16,3,"['VATadjBMI', 'BMI', 'VATSATadjBMI']","['Visceral adipose tissue volume adj BMI', 'BMI', 'Ratio visceral-subcutaneous adipose tissue volume adj BMI']",['ANTHROPOMETRIC'],"['ANTHROPOMETRIC', 'ANTHROPOMETRIC', 'ANTHROPOMETRIC']"
+255,AIMP2,3,"['LEPadjBMI', 'FGadjBMI', 'BMI']","['Leptin adj BMI', 'Fasting glucose adj BMI', 'BMI']","['LIPIDS', 'ANTHROPOMETRIC', 'GLYCEMIC']","['LIPIDS', 'GLYCEMIC', 'ANTHROPOMETRIC']"
+256,CSPP1,3,"['T2DadjBMI', 'BMI', 'T2D']","['Type 2 diabetes adj BMI', 'BMI', 'Type 2 diabetes']","['ANTHROPOMETRIC', 'GLYCEMIC']","['GLYCEMIC', 'ANTHROPOMETRIC', 'GLYCEMIC']"
+257,TCTN2,3,"['WAISTadjBMI', 'WHRadjBMI', 'BMI']","['Waist circumference adj BMI', 'Waist-hip ratio adj BMI', 'BMI']",['ANTHROPOMETRIC'],"['ANTHROPOMETRIC', 'ANTHROPOMETRIC', 'ANTHROPOMETRIC']"
+258,VCPIP1,3,"['T2DadjBMI', 'BMI', 'T2D']","['Type 2 diabetes adj BMI', 'BMI', 'Type 2 diabetes']","['ANTHROPOMETRIC', 'GLYCEMIC']","['GLYCEMIC', 'ANTHROPOMETRIC', 'GLYCEMIC']"
+259,USP5,3,"['T2DadjBMI', 'BMI', 'T2D']","['Type 2 diabetes adj BMI', 'BMI', 'Type 2 diabetes']","['ANTHROPOMETRIC', 'GLYCEMIC']","['GLYCEMIC', 'ANTHROPOMETRIC', 'GLYCEMIC']"
+260,CEP44,3,"['HIPCadjBMI', 'WHRadjBMI', 'BMI']","['Hip circumference adj BMI', 'Waist-hip ratio adj BMI', 'BMI']",['ANTHROPOMETRIC'],"['ANTHROPOMETRIC', 'ANTHROPOMETRIC', 'ANTHROPOMETRIC']"
+261,CALR,3,"['T2DadjBMI', 'BMI', 'T2D']","['Type 2 diabetes adj BMI', 'BMI', 'Type 2 diabetes']","['ANTHROPOMETRIC', 'GLYCEMIC']","['GLYCEMIC', 'ANTHROPOMETRIC', 'GLYCEMIC']"
+262,CAMK2A,3,"['T2DadjBMI', 'BMI', 'T2D']","['Type 2 diabetes adj BMI', 'BMI', 'Type 2 diabetes']","['ANTHROPOMETRIC', 'GLYCEMIC']","['GLYCEMIC', 'ANTHROPOMETRIC', 'GLYCEMIC']"
+263,SNX27,3,"['HIPCadjBMI', 'VATadjBMI', 'BMI']","['Hip circumference adj BMI', 'Visceral adipose tissue volume adj BMI', 'BMI']",['ANTHROPOMETRIC'],"['ANTHROPOMETRIC', 'ANTHROPOMETRIC', 'ANTHROPOMETRIC']"
+264,CAPZA2,3,"['VATadjBMI', 'BMI', 'VATSATadjBMI']","['Visceral adipose tissue volume adj BMI', 'BMI', 'Ratio visceral-subcutaneous adipose tissue volume adj BMI']",['ANTHROPOMETRIC'],"['ANTHROPOMETRIC', 'ANTHROPOMETRIC', 'ANTHROPOMETRIC']"
+265,ENKD1,3,"['WAISTadjBMI', 'WHRadjBMI', 'BMI']","['Waist circumference adj BMI', 'Waist-hip ratio adj BMI', 'BMI']",['ANTHROPOMETRIC'],"['ANTHROPOMETRIC', 'ANTHROPOMETRIC', 'ANTHROPOMETRIC']"
+266,TCHP,3,"['T2DadjBMI', 'BMI', 'T2D']","['Type 2 diabetes adj BMI', 'BMI', 'Type 2 diabetes']","['ANTHROPOMETRIC', 'GLYCEMIC']","['GLYCEMIC', 'ANTHROPOMETRIC', 'GLYCEMIC']"
+267,TMEM107,3,"['T2DadjBMI', 'BMI', 'T2D']","['Type 2 diabetes adj BMI', 'BMI', 'Type 2 diabetes']","['ANTHROPOMETRIC', 'GLYCEMIC']","['GLYCEMIC', 'ANTHROPOMETRIC', 'GLYCEMIC']"
+268,NEURL4,3,"['LEPadjBMI', 'BMI', 'T2D']","['Leptin adj BMI', 'BMI', 'Type 2 diabetes']","['LIPIDS', 'ANTHROPOMETRIC', 'GLYCEMIC']","['LIPIDS', 'ANTHROPOMETRIC', 'GLYCEMIC']"
+269,CUL1,3,"['T2DadjBMI', 'BMI', 'T2D']","['Type 2 diabetes adj BMI', 'BMI', 'Type 2 diabetes']","['ANTHROPOMETRIC', 'GLYCEMIC']","['GLYCEMIC', 'ANTHROPOMETRIC', 'GLYCEMIC']"
+270,AP3B1,3,"['ISenBMI', 'BMI', 'T2D']","['Insulin sensitivity adj BMI', 'BMI', 'Type 2 diabetes']","['ANTHROPOMETRIC', 'GLYCEMIC']","['GLYCEMIC', 'ANTHROPOMETRIC', 'GLYCEMIC']"
+271,HAP1,3,"['VATadjBMI', 'BMI', 'VATSATadjBMI']","['Visceral adipose tissue volume adj BMI', 'BMI', 'Ratio visceral-subcutaneous adipose tissue volume adj BMI']",['ANTHROPOMETRIC'],"['ANTHROPOMETRIC', 'ANTHROPOMETRIC', 'ANTHROPOMETRIC']"
+272,UBE2M,3,"['HIPCadjBMI', 'WHRadjBMI', 'BMI']","['Hip circumference adj BMI', 'Waist-hip ratio adj BMI', 'BMI']",['ANTHROPOMETRIC'],"['ANTHROPOMETRIC', 'ANTHROPOMETRIC', 'ANTHROPOMETRIC']"
+273,IFT20,3,"['T2DadjBMI', 'BMI', 'T2D']","['Type 2 diabetes adj BMI', 'BMI', 'Type 2 diabetes']","['ANTHROPOMETRIC', 'GLYCEMIC']","['GLYCEMIC', 'ANTHROPOMETRIC', 'GLYCEMIC']"
+274,LMF2,3,"['T2DadjBMI', 'BMI', 'T2D']","['Type 2 diabetes adj BMI', 'BMI', 'Type 2 diabetes']","['ANTHROPOMETRIC', 'GLYCEMIC']","['GLYCEMIC', 'ANTHROPOMETRIC', 'GLYCEMIC']"
+275,EFTUD2,3,"['T2DadjBMI', 'BMI', 'T2D']","['Type 2 diabetes adj BMI', 'BMI', 'Type 2 diabetes']","['ANTHROPOMETRIC', 'GLYCEMIC']","['GLYCEMIC', 'ANTHROPOMETRIC', 'GLYCEMIC']"
+276,TBC1D31,3,"['HIPCadjBMI', 'T2DadjBMI', 'BMI']","['Hip circumference adj BMI', 'Type 2 diabetes adj BMI', 'BMI']","['ANTHROPOMETRIC', 'GLYCEMIC']","['ANTHROPOMETRIC', 'GLYCEMIC', 'ANTHROPOMETRIC']"
+277,MPDU1,3,"['T2DadjBMI', 'BMI', 'T2D']","['Type 2 diabetes adj BMI', 'BMI', 'Type 2 diabetes']","['ANTHROPOMETRIC', 'GLYCEMIC']","['GLYCEMIC', 'ANTHROPOMETRIC', 'GLYCEMIC']"
+278,CLINT1,3,"['T2DadjBMI', 'BMI', 'T2D']","['Type 2 diabetes adj BMI', 'BMI', 'Type 2 diabetes']","['ANTHROPOMETRIC', 'GLYCEMIC']","['GLYCEMIC', 'ANTHROPOMETRIC', 'GLYCEMIC']"
+279,UBE3C,3,"['T2DadjBMI', 'BMI', 'T2D']","['Type 2 diabetes adj BMI', 'BMI', 'Type 2 diabetes']","['ANTHROPOMETRIC', 'GLYCEMIC']","['GLYCEMIC', 'ANTHROPOMETRIC', 'GLYCEMIC']"
+280,CROCC,3,"['HIPCadjBMI', 'WAISTadjBMI', 'BMI']","['Hip circumference adj BMI', 'Waist circumference adj BMI', 'BMI']",['ANTHROPOMETRIC'],"['ANTHROPOMETRIC', 'ANTHROPOMETRIC', 'ANTHROPOMETRIC']"
+281,IFT140,3,"['T2DadjBMI', 'BMI', 'T2D']","['Type 2 diabetes adj BMI', 'BMI', 'Type 2 diabetes']","['ANTHROPOMETRIC', 'GLYCEMIC']","['GLYCEMIC', 'ANTHROPOMETRIC', 'GLYCEMIC']"
+282,PTDSS1,3,"['WHRadjBMI', 'FGadjBMI', 'BMI']","['Waist-hip ratio adj BMI', 'Fasting glucose adj BMI', 'BMI']","['ANTHROPOMETRIC', 'GLYCEMIC']","['ANTHROPOMETRIC', 'GLYCEMIC', 'ANTHROPOMETRIC']"
+283,IQSEC1,3,"['T2DadjBMI', 'BMI', 'T2D']","['Type 2 diabetes adj BMI', 'BMI', 'Type 2 diabetes']","['ANTHROPOMETRIC', 'GLYCEMIC']","['GLYCEMIC', 'ANTHROPOMETRIC', 'GLYCEMIC']"
+284,AKAP9,3,"['T2DadjBMI', 'FGadjBMI', 'T2D']","['Type 2 diabetes adj BMI', 'Fasting glucose adj BMI', 'Type 2 diabetes']",['GLYCEMIC'],"['GLYCEMIC', 'GLYCEMIC', 'GLYCEMIC']"
+285,MYCBP2,3,"['FGadjBMI', 'ISenBMI', 'T2D']","['Fasting glucose adj BMI', 'Insulin sensitivity adj BMI', 'Type 2 diabetes']",['GLYCEMIC'],"['GLYCEMIC', 'GLYCEMIC', 'GLYCEMIC']"
+286,CUL5,3,"['T2DadjBMI', 'FGadjBMI', 'T2D']","['Type 2 diabetes adj BMI', 'Fasting glucose adj BMI', 'Type 2 diabetes']",['GLYCEMIC'],"['GLYCEMIC', 'GLYCEMIC', 'GLYCEMIC']"
+287,CAPZB,3,"['T2DadjBMI', 'FGadjBMI', 'HIPCadjBMI']","['Type 2 diabetes adj BMI', 'Fasting glucose adj BMI', 'Hip circumference adj BMI']","['ANTHROPOMETRIC', 'GLYCEMIC']","['GLYCEMIC', 'GLYCEMIC', 'ANTHROPOMETRIC']"
+288,LRRCC1,3,"['T2DadjBMI', 'FGadjBMI', 'T2D']","['Type 2 diabetes adj BMI', 'Fasting glucose adj BMI', 'Type 2 diabetes']",['GLYCEMIC'],"['GLYCEMIC', 'GLYCEMIC', 'GLYCEMIC']"
+289,PSMD6,3,"['T2DadjBMI', 'FGadjBMI', 'T2D']","['Type 2 diabetes adj BMI', 'Fasting glucose adj BMI', 'Type 2 diabetes']",['GLYCEMIC'],"['GLYCEMIC', 'GLYCEMIC', 'GLYCEMIC']"
+290,LDHB,3,"['T2DadjBMI', 'FIadjBMI', 'T2D']","['Type 2 diabetes adj BMI', 'Fasting insulin adj BMI', 'Type 2 diabetes']",['GLYCEMIC'],"['GLYCEMIC', 'GLYCEMIC', 'GLYCEMIC']"
+291,NUDC,3,"['WAISTadjBMI', 'HIPCadjBMI', 'T2D']","['Waist circumference adj BMI', 'Hip circumference adj BMI', 'Type 2 diabetes']","['ANTHROPOMETRIC', 'GLYCEMIC']","['ANTHROPOMETRIC', 'ANTHROPOMETRIC', 'GLYCEMIC']"
+292,HSPA4,3,"['WAISTadjBMI', 'WHRadjBMI', 'HIPCadjBMI']","['Waist circumference adj BMI', 'Waist-hip ratio adj BMI', 'Hip circumference adj BMI']",['ANTHROPOMETRIC'],"['ANTHROPOMETRIC', 'ANTHROPOMETRIC', 'ANTHROPOMETRIC']"
+293,NEK2,3,"['WHRadjBMI', 'HIPCadjBMI', 'T2D']","['Waist-hip ratio adj BMI', 'Hip circumference adj BMI', 'Type 2 diabetes']","['ANTHROPOMETRIC', 'GLYCEMIC']","['ANTHROPOMETRIC', 'ANTHROPOMETRIC', 'GLYCEMIC']"
+294,NMT1,3,"['T2DadjBMI', 'HIPCadjBMI', 'T2D']","['Type 2 diabetes adj BMI', 'Hip circumference adj BMI', 'Type 2 diabetes']","['ANTHROPOMETRIC', 'GLYCEMIC']","['GLYCEMIC', 'ANTHROPOMETRIC', 'GLYCEMIC']"
+295,INPP5E,3,"['T2DadjBMI', 'HIPCadjBMI', 'T2D']","['Type 2 diabetes adj BMI', 'Hip circumference adj BMI', 'Type 2 diabetes']","['ANTHROPOMETRIC', 'GLYCEMIC']","['GLYCEMIC', 'ANTHROPOMETRIC', 'GLYCEMIC']"
+296,WDR19,3,"['WAISTadjBMI', 'ISenBMI', 'HIPCadjBMI']","['Waist circumference adj BMI', 'Insulin sensitivity adj BMI', 'Hip circumference adj BMI']","['ANTHROPOMETRIC', 'GLYCEMIC']","['ANTHROPOMETRIC', 'GLYCEMIC', 'ANTHROPOMETRIC']"
+297,CAPZA1,3,"['WAISTadjBMI', 'HIPCadjBMI', 'T2D']","['Waist circumference adj BMI', 'Hip circumference adj BMI', 'Type 2 diabetes']","['ANTHROPOMETRIC', 'GLYCEMIC']","['ANTHROPOMETRIC', 'ANTHROPOMETRIC', 'GLYCEMIC']"
+298,SERPINH1,3,"['T2DadjBMI', 'WAISTadjBMI', 'HIPCadjBMI']","['Type 2 diabetes adj BMI', 'Waist circumference adj BMI', 'Hip circumference adj BMI']","['ANTHROPOMETRIC', 'GLYCEMIC']","['GLYCEMIC', 'ANTHROPOMETRIC', 'ANTHROPOMETRIC']"
+299,IFT22,3,"['WAISTadjBMI', 'LEPadjBMI', 'ISenBMI']","['Waist circumference adj BMI', 'Leptin adj BMI', 'Insulin sensitivity adj BMI']","['LIPIDS', 'ANTHROPOMETRIC', 'GLYCEMIC']","['ANTHROPOMETRIC', 'LIPIDS', 'GLYCEMIC']"
+300,KIF3A,3,"['WAISTadjBMI', 'LEPadjBMI', 'T2D']","['Waist circumference adj BMI', 'Leptin adj BMI', 'Type 2 diabetes']","['LIPIDS', 'ANTHROPOMETRIC', 'GLYCEMIC']","['ANTHROPOMETRIC', 'LIPIDS', 'GLYCEMIC']"
+301,EML1,3,"['WAISTadjBMI', 'LEPadjBMI', 'WHRadjBMI']","['Waist circumference adj BMI', 'Leptin adj BMI', 'Waist-hip ratio adj BMI']","['LIPIDS', 'ANTHROPOMETRIC']","['ANTHROPOMETRIC', 'LIPIDS', 'ANTHROPOMETRIC']"
+302,UBE2V1,3,"['T2DadjBMI', 'LEPadjBMI', 'T2D']","['Type 2 diabetes adj BMI', 'Leptin adj BMI', 'Type 2 diabetes']","['LIPIDS', 'GLYCEMIC']","['GLYCEMIC', 'LIPIDS', 'GLYCEMIC']"
+303,HGS,3,"['T2DadjBMI', 'LEPadjBMI', 'T2D']","['Type 2 diabetes adj BMI', 'Leptin adj BMI', 'Type 2 diabetes']","['LIPIDS', 'GLYCEMIC']","['GLYCEMIC', 'LIPIDS', 'GLYCEMIC']"
+304,SCAMP3,3,"['T2DadjBMI', 'WAISTadjBMI', 'T2D']","['Type 2 diabetes adj BMI', 'Waist circumference adj BMI', 'Type 2 diabetes']","['ANTHROPOMETRIC', 'GLYCEMIC']","['GLYCEMIC', 'ANTHROPOMETRIC', 'GLYCEMIC']"
+305,PIBF1,3,"['T2DadjBMI', 'WAISTadjBMI', 'T2D']","['Type 2 diabetes adj BMI', 'Waist circumference adj BMI', 'Type 2 diabetes']","['ANTHROPOMETRIC', 'GLYCEMIC']","['GLYCEMIC', 'ANTHROPOMETRIC', 'GLYCEMIC']"
+306,CTBP1,3,"['T2DadjBMI', 'WHRadjBMI', 'T2D']","['Type 2 diabetes adj BMI', 'Waist-hip ratio adj BMI', 'Type 2 diabetes']","['ANTHROPOMETRIC', 'GLYCEMIC']","['GLYCEMIC', 'ANTHROPOMETRIC', 'GLYCEMIC']"
+307,NACA,3,"['T2DadjBMI', 'VATadjBMI', 'T2D']","['Type 2 diabetes adj BMI', 'Visceral adipose tissue volume adj BMI', 'Type 2 diabetes']","['ANTHROPOMETRIC', 'GLYCEMIC']","['GLYCEMIC', 'ANTHROPOMETRIC', 'GLYCEMIC']"
+308,NPHP1,3,"['T2DadjBMI', 'T2D', 'VATSATadjBMI']","['Type 2 diabetes adj BMI', 'Type 2 diabetes', 'Ratio visceral-subcutaneous adipose tissue volume adj BMI']","['ANTHROPOMETRIC', 'GLYCEMIC']","['GLYCEMIC', 'GLYCEMIC', 'ANTHROPOMETRIC']"
+309,PPP2R2A,3,"['T2DadjBMI', 'WAISTadjBMI', 'T2D']","['Type 2 diabetes adj BMI', 'Waist circumference adj BMI', 'Type 2 diabetes']","['ANTHROPOMETRIC', 'GLYCEMIC']","['GLYCEMIC', 'ANTHROPOMETRIC', 'GLYCEMIC']"
+310,PRKAR2B,3,"['T2DadjBMI', 'VATadjBMI', 'T2D']","['Type 2 diabetes adj BMI', 'Visceral adipose tissue volume adj BMI', 'Type 2 diabetes']","['ANTHROPOMETRIC', 'GLYCEMIC']","['GLYCEMIC', 'ANTHROPOMETRIC', 'GLYCEMIC']"
+311,DCP1A,3,"['T2DadjBMI', 'WHRadjBMI', 'T2D']","['Type 2 diabetes adj BMI', 'Waist-hip ratio adj BMI', 'Type 2 diabetes']","['ANTHROPOMETRIC', 'GLYCEMIC']","['GLYCEMIC', 'ANTHROPOMETRIC', 'GLYCEMIC']"
+312,PSMA3,3,"['T2DadjBMI', 'WHRadjBMI', 'T2D']","['Type 2 diabetes adj BMI', 'Waist-hip ratio adj BMI', 'Type 2 diabetes']","['ANTHROPOMETRIC', 'GLYCEMIC']","['GLYCEMIC', 'ANTHROPOMETRIC', 'GLYCEMIC']"
+313,RAB1A,3,"['T2DadjBMI', 'WHRadjBMI', 'T2D']","['Type 2 diabetes adj BMI', 'Waist-hip ratio adj BMI', 'Type 2 diabetes']","['ANTHROPOMETRIC', 'GLYCEMIC']","['GLYCEMIC', 'ANTHROPOMETRIC', 'GLYCEMIC']"
+314,TTK,3,"['T2DadjBMI', 'T2D', 'VATSATadjBMI']","['Type 2 diabetes adj BMI', 'Type 2 diabetes', 'Ratio visceral-subcutaneous adipose tissue volume adj BMI']","['ANTHROPOMETRIC', 'GLYCEMIC']","['GLYCEMIC', 'GLYCEMIC', 'ANTHROPOMETRIC']"
+315,TULP3,3,"['WAISTadjBMI', 'WHRadjBMI', 'T2D']","['Waist circumference adj BMI', 'Waist-hip ratio adj BMI', 'Type 2 diabetes']","['ANTHROPOMETRIC', 'GLYCEMIC']","['ANTHROPOMETRIC', 'ANTHROPOMETRIC', 'GLYCEMIC']"
+316,MBOAT7,3,"['T2DadjBMI', 'WAISTadjBMI', 'T2D']","['Type 2 diabetes adj BMI', 'Waist circumference adj BMI', 'Type 2 diabetes']","['ANTHROPOMETRIC', 'GLYCEMIC']","['GLYCEMIC', 'ANTHROPOMETRIC', 'GLYCEMIC']"
+317,PEA15,3,"['WAISTadjBMI', 'T2D', 'VATSATadjBMI']","['Waist circumference adj BMI', 'Type 2 diabetes', 'Ratio visceral-subcutaneous adipose tissue volume adj BMI']","['ANTHROPOMETRIC', 'GLYCEMIC']","['ANTHROPOMETRIC', 'GLYCEMIC', 'ANTHROPOMETRIC']"
+318,SLC9A3R1,3,"['T2DadjBMI', 'T2D', 'VATSATadjBMI']","['Type 2 diabetes adj BMI', 'Type 2 diabetes', 'Ratio visceral-subcutaneous adipose tissue volume adj BMI']","['ANTHROPOMETRIC', 'GLYCEMIC']","['GLYCEMIC', 'GLYCEMIC', 'ANTHROPOMETRIC']"
+319,UBE2N,3,"['WHRadjBMI', 'VATadjBMI', 'VATSATadjBMI']","['Waist-hip ratio adj BMI', 'Visceral adipose tissue volume adj BMI', 'Ratio visceral-subcutaneous adipose tissue volume adj BMI']",['ANTHROPOMETRIC'],"['ANTHROPOMETRIC', 'ANTHROPOMETRIC', 'ANTHROPOMETRIC']"
+320,EDRF1,3,"['WAISTadjBMI', 'WHRadjBMI', 'VATSATadjBMI']","['Waist circumference adj BMI', 'Waist-hip ratio adj BMI', 'Ratio visceral-subcutaneous adipose tissue volume adj BMI']",['ANTHROPOMETRIC'],"['ANTHROPOMETRIC', 'ANTHROPOMETRIC', 'ANTHROPOMETRIC']"
+321,PDIA6,2,"['BMI', 'T2D']","['BMI', 'Type 2 diabetes']","['ANTHROPOMETRIC', 'GLYCEMIC']","['ANTHROPOMETRIC', 'GLYCEMIC']"
+322,CDK5,2,"['BMI', 'T2D']","['BMI', 'Type 2 diabetes']","['ANTHROPOMETRIC', 'GLYCEMIC']","['ANTHROPOMETRIC', 'GLYCEMIC']"
+323,HYOU1,2,"['BMI', 'T2D']","['BMI', 'Type 2 diabetes']","['ANTHROPOMETRIC', 'GLYCEMIC']","['ANTHROPOMETRIC', 'GLYCEMIC']"
+324,GLMN,2,"['BMI', 'T2D']","['BMI', 'Type 2 diabetes']","['ANTHROPOMETRIC', 'GLYCEMIC']","['ANTHROPOMETRIC', 'GLYCEMIC']"
+325,CLNS1A,2,"['BMI', 'T2D']","['BMI', 'Type 2 diabetes']","['ANTHROPOMETRIC', 'GLYCEMIC']","['ANTHROPOMETRIC', 'GLYCEMIC']"
+326,CNGA1,2,"['WHRadjBMI', 'BMI']","['Waist-hip ratio adj BMI', 'BMI']",['ANTHROPOMETRIC'],"['ANTHROPOMETRIC', 'ANTHROPOMETRIC']"
+327,CSNK1A1,2,"['BMI', 'T2D']","['BMI', 'Type 2 diabetes']","['ANTHROPOMETRIC', 'GLYCEMIC']","['ANTHROPOMETRIC', 'GLYCEMIC']"
+328,KLC3,2,"['BMI', 'T2D']","['BMI', 'Type 2 diabetes']","['ANTHROPOMETRIC', 'GLYCEMIC']","['ANTHROPOMETRIC', 'GLYCEMIC']"
+329,CKAP2L,2,"['FIadjBMI', 'BMI']","['Fasting insulin adj BMI', 'BMI']","['ANTHROPOMETRIC', 'GLYCEMIC']","['GLYCEMIC', 'ANTHROPOMETRIC']"
+330,TTC30B,2,"['T2DadjBMI', 'BMI']","['Type 2 diabetes adj BMI', 'BMI']","['ANTHROPOMETRIC', 'GLYCEMIC']","['GLYCEMIC', 'ANTHROPOMETRIC']"
+331,DAB2IP,2,"['FGadjBMI', 'BMI']","['Fasting glucose adj BMI', 'BMI']","['ANTHROPOMETRIC', 'GLYCEMIC']","['GLYCEMIC', 'ANTHROPOMETRIC']"
+332,EML5,2,"['T2DadjBMI', 'BMI']","['Type 2 diabetes adj BMI', 'BMI']","['ANTHROPOMETRIC', 'GLYCEMIC']","['GLYCEMIC', 'ANTHROPOMETRIC']"
+333,CCDC138,2,"['BMI', 'T2D']","['BMI', 'Type 2 diabetes']","['ANTHROPOMETRIC', 'GLYCEMIC']","['ANTHROPOMETRIC', 'GLYCEMIC']"
+334,DLG1,2,"['LEPadjBMI', 'BMI']","['Leptin adj BMI', 'BMI']","['LIPIDS', 'ANTHROPOMETRIC']","['LIPIDS', 'ANTHROPOMETRIC']"
+335,DYNC1LI2,2,"['ISenBMI', 'BMI']","['Insulin sensitivity adj BMI', 'BMI']","['ANTHROPOMETRIC', 'GLYCEMIC']","['GLYCEMIC', 'ANTHROPOMETRIC']"
+336,DPYSL2,2,"['BMI', 'T2D']","['BMI', 'Type 2 diabetes']","['ANTHROPOMETRIC', 'GLYCEMIC']","['ANTHROPOMETRIC', 'GLYCEMIC']"
+337,ANKS6,2,"['BMI', 'VATSATadjBMI']","['BMI', 'Ratio visceral-subcutaneous adipose tissue volume adj BMI']",['ANTHROPOMETRIC'],"['ANTHROPOMETRIC', 'ANTHROPOMETRIC']"
+338,STOM,2,"['BMI', 'T2D']","['BMI', 'Type 2 diabetes']","['ANTHROPOMETRIC', 'GLYCEMIC']","['ANTHROPOMETRIC', 'GLYCEMIC']"
+339,COPZ1,2,"['BMI', 'T2D']","['BMI', 'Type 2 diabetes']","['ANTHROPOMETRIC', 'GLYCEMIC']","['ANTHROPOMETRIC', 'GLYCEMIC']"
+340,ANKRD26,2,"['LEPadjBMI', 'BMI']","['Leptin adj BMI', 'BMI']","['LIPIDS', 'ANTHROPOMETRIC']","['LIPIDS', 'ANTHROPOMETRIC']"
+341,MAPRE1,2,"['VATadjBMI', 'BMI']","['Visceral adipose tissue volume adj BMI', 'BMI']",['ANTHROPOMETRIC'],"['ANTHROPOMETRIC', 'ANTHROPOMETRIC']"
+342,EMC1,2,"['T2DadjBMI', 'BMI']","['Type 2 diabetes adj BMI', 'BMI']","['ANTHROPOMETRIC', 'GLYCEMIC']","['GLYCEMIC', 'ANTHROPOMETRIC']"
+343,ZNF423,2,"['BMI', 'VATSATadjBMI']","['BMI', 'Ratio visceral-subcutaneous adipose tissue volume adj BMI']",['ANTHROPOMETRIC'],"['ANTHROPOMETRIC', 'ANTHROPOMETRIC']"
+344,PASK,2,"['HIPCadjBMI', 'BMI']","['Hip circumference adj BMI', 'BMI']",['ANTHROPOMETRIC'],"['ANTHROPOMETRIC', 'ANTHROPOMETRIC']"
+345,ADGRL2,2,"['BMI', 'T2D']","['BMI', 'Type 2 diabetes']","['ANTHROPOMETRIC', 'GLYCEMIC']","['ANTHROPOMETRIC', 'GLYCEMIC']"
+346,TTLL1,2,"['BMI', 'T2D']","['BMI', 'Type 2 diabetes']","['ANTHROPOMETRIC', 'GLYCEMIC']","['ANTHROPOMETRIC', 'GLYCEMIC']"
+347,ABHD12,2,"['WAISTadjBMI', 'BMI']","['Waist circumference adj BMI', 'BMI']",['ANTHROPOMETRIC'],"['ANTHROPOMETRIC', 'ANTHROPOMETRIC']"
+348,GLI3,2,"['T2DadjBMI', 'BMI']","['Type 2 diabetes adj BMI', 'BMI']","['ANTHROPOMETRIC', 'GLYCEMIC']","['GLYCEMIC', 'ANTHROPOMETRIC']"
+349,CCDC57,2,"['WAISTadjBMI', 'BMI']","['Waist circumference adj BMI', 'BMI']",['ANTHROPOMETRIC'],"['ANTHROPOMETRIC', 'ANTHROPOMETRIC']"
+350,IFT81,2,"['HIPCadjBMI', 'BMI']","['Hip circumference adj BMI', 'BMI']",['ANTHROPOMETRIC'],"['ANTHROPOMETRIC', 'ANTHROPOMETRIC']"
+351,GUK1,2,"['HIPCadjBMI', 'BMI']","['Hip circumference adj BMI', 'BMI']",['ANTHROPOMETRIC'],"['ANTHROPOMETRIC', 'ANTHROPOMETRIC']"
+352,GUCY2D,2,"['T2DadjBMI', 'BMI']","['Type 2 diabetes adj BMI', 'BMI']","['ANTHROPOMETRIC', 'GLYCEMIC']","['GLYCEMIC', 'ANTHROPOMETRIC']"
+353,HMMR,2,"['VATadjBMI', 'BMI']","['Visceral adipose tissue volume adj BMI', 'BMI']",['ANTHROPOMETRIC'],"['ANTHROPOMETRIC', 'ANTHROPOMETRIC']"
+354,CCDC39,2,"['BMI', 'T2D']","['BMI', 'Type 2 diabetes']","['ANTHROPOMETRIC', 'GLYCEMIC']","['ANTHROPOMETRIC', 'GLYCEMIC']"
+355,AGBL3,2,"['HIPCadjBMI', 'BMI']","['Hip circumference adj BMI', 'BMI']",['ANTHROPOMETRIC'],"['ANTHROPOMETRIC', 'ANTHROPOMETRIC']"
+356,ITGB1,2,"['WHRadjBMI', 'BMI']","['Waist-hip ratio adj BMI', 'BMI']",['ANTHROPOMETRIC'],"['ANTHROPOMETRIC', 'ANTHROPOMETRIC']"
+357,LMAN1,2,"['LEPadjBMI', 'BMI']","['Leptin adj BMI', 'BMI']","['LIPIDS', 'ANTHROPOMETRIC']","['LIPIDS', 'ANTHROPOMETRIC']"
+358,MYO9A,2,"['HIPCadjBMI', 'BMI']","['Hip circumference adj BMI', 'BMI']",['ANTHROPOMETRIC'],"['ANTHROPOMETRIC', 'ANTHROPOMETRIC']"
+359,ATP2B1,2,"['HIPCadjBMI', 'BMI']","['Hip circumference adj BMI', 'BMI']",['ANTHROPOMETRIC'],"['ANTHROPOMETRIC', 'ANTHROPOMETRIC']"
+360,PCM1,2,"['BMI', 'T2D']","['BMI', 'Type 2 diabetes']","['ANTHROPOMETRIC', 'GLYCEMIC']","['ANTHROPOMETRIC', 'GLYCEMIC']"
+361,PDE6D,2,"['HIPCadjBMI', 'BMI']","['Hip circumference adj BMI', 'BMI']",['ANTHROPOMETRIC'],"['ANTHROPOMETRIC', 'ANTHROPOMETRIC']"
+362,DCDC2,2,"['BMI', 'T2D']","['BMI', 'Type 2 diabetes']","['ANTHROPOMETRIC', 'GLYCEMIC']","['ANTHROPOMETRIC', 'GLYCEMIC']"
+363,PFN2,2,"['HIPCadjBMI', 'BMI']","['Hip circumference adj BMI', 'BMI']",['ANTHROPOMETRIC'],"['ANTHROPOMETRIC', 'ANTHROPOMETRIC']"
+364,PHB,2,"['T2DadjBMI', 'BMI']","['Type 2 diabetes adj BMI', 'BMI']","['ANTHROPOMETRIC', 'GLYCEMIC']","['GLYCEMIC', 'ANTHROPOMETRIC']"
+365,LZTFL1,2,"['FGadjBMI', 'BMI']","['Fasting glucose adj BMI', 'BMI']","['ANTHROPOMETRIC', 'GLYCEMIC']","['GLYCEMIC', 'ANTHROPOMETRIC']"
+366,PPP1CC,2,"['FGadjBMI', 'BMI']","['Fasting glucose adj BMI', 'BMI']","['ANTHROPOMETRIC', 'GLYCEMIC']","['GLYCEMIC', 'ANTHROPOMETRIC']"
+367,PPP2R3C,2,"['HIPCadjBMI', 'BMI']","['Hip circumference adj BMI', 'BMI']",['ANTHROPOMETRIC'],"['ANTHROPOMETRIC', 'ANTHROPOMETRIC']"
+368,IFT57,2,"['BMI', 'VATSATadjBMI']","['BMI', 'Ratio visceral-subcutaneous adipose tissue volume adj BMI']",['ANTHROPOMETRIC'],"['ANTHROPOMETRIC', 'ANTHROPOMETRIC']"
+369,CEP192,2,"['HIPCadjBMI', 'BMI']","['Hip circumference adj BMI', 'BMI']",['ANTHROPOMETRIC'],"['ANTHROPOMETRIC', 'ANTHROPOMETRIC']"
+370,CEP55,2,"['FGadjBMI', 'BMI']","['Fasting glucose adj BMI', 'BMI']","['ANTHROPOMETRIC', 'GLYCEMIC']","['GLYCEMIC', 'ANTHROPOMETRIC']"
+371,PEF1,2,"['BMI', 'T2D']","['BMI', 'Type 2 diabetes']","['ANTHROPOMETRIC', 'GLYCEMIC']","['ANTHROPOMETRIC', 'GLYCEMIC']"
+372,PPP6C,2,"['WHRadjBMI', 'BMI']","['Waist-hip ratio adj BMI', 'BMI']",['ANTHROPOMETRIC'],"['ANTHROPOMETRIC', 'ANTHROPOMETRIC']"
+373,AMBRA1,2,"['BMI', 'T2D']","['BMI', 'Type 2 diabetes']","['ANTHROPOMETRIC', 'GLYCEMIC']","['ANTHROPOMETRIC', 'GLYCEMIC']"
+374,CEP72,2,"['T2DadjBMI', 'BMI']","['Type 2 diabetes adj BMI', 'BMI']","['ANTHROPOMETRIC', 'GLYCEMIC']","['GLYCEMIC', 'ANTHROPOMETRIC']"
+375,PRKAR1A,2,"['BMI', 'T2D']","['BMI', 'Type 2 diabetes']","['ANTHROPOMETRIC', 'GLYCEMIC']","['ANTHROPOMETRIC', 'GLYCEMIC']"
+376,VPS11,2,"['BMI', 'T2D']","['BMI', 'Type 2 diabetes']","['ANTHROPOMETRIC', 'GLYCEMIC']","['ANTHROPOMETRIC', 'GLYCEMIC']"
+377,PSMA2,2,"['BMI', 'T2D']","['BMI', 'Type 2 diabetes']","['ANTHROPOMETRIC', 'GLYCEMIC']","['ANTHROPOMETRIC', 'GLYCEMIC']"
+378,PSMC4,2,"['FGadjBMI', 'BMI']","['Fasting glucose adj BMI', 'BMI']","['ANTHROPOMETRIC', 'GLYCEMIC']","['GLYCEMIC', 'ANTHROPOMETRIC']"
+379,PSMC6,2,"['BMI', 'T2D']","['BMI', 'Type 2 diabetes']","['ANTHROPOMETRIC', 'GLYCEMIC']","['ANTHROPOMETRIC', 'GLYCEMIC']"
+380,PSMD7,2,"['BMI', 'T2D']","['BMI', 'Type 2 diabetes']","['ANTHROPOMETRIC', 'GLYCEMIC']","['ANTHROPOMETRIC', 'GLYCEMIC']"
+381,C3orf14,2,"['ISenBMI', 'BMI']","['Insulin sensitivity adj BMI', 'BMI']","['ANTHROPOMETRIC', 'GLYCEMIC']","['GLYCEMIC', 'ANTHROPOMETRIC']"
+382,CC2D2A,2,"['ISenBMI', 'BMI']","['Insulin sensitivity adj BMI', 'BMI']","['ANTHROPOMETRIC', 'GLYCEMIC']","['GLYCEMIC', 'ANTHROPOMETRIC']"
+383,PTPN13,2,"['T2DadjBMI', 'BMI']","['Type 2 diabetes adj BMI', 'BMI']","['ANTHROPOMETRIC', 'GLYCEMIC']","['GLYCEMIC', 'ANTHROPOMETRIC']"
+384,BBS1,2,"['HIPCadjBMI', 'BMI']","['Hip circumference adj BMI', 'BMI']",['ANTHROPOMETRIC'],"['ANTHROPOMETRIC', 'ANTHROPOMETRIC']"
+385,RBM15,2,"['HIPCadjBMI', 'BMI']","['Hip circumference adj BMI', 'BMI']",['ANTHROPOMETRIC'],"['ANTHROPOMETRIC', 'ANTHROPOMETRIC']"
+386,SSRP1,2,"['BMI', 'T2D']","['BMI', 'Type 2 diabetes']","['ANTHROPOMETRIC', 'GLYCEMIC']","['ANTHROPOMETRIC', 'GLYCEMIC']"
+387,TALDO1,2,"['T2DadjBMI', 'BMI']","['Type 2 diabetes adj BMI', 'BMI']","['ANTHROPOMETRIC', 'GLYCEMIC']","['GLYCEMIC', 'ANTHROPOMETRIC']"
+388,THOP1,2,"['FGadjBMI', 'BMI']","['Fasting glucose adj BMI', 'BMI']","['ANTHROPOMETRIC', 'GLYCEMIC']","['GLYCEMIC', 'ANTHROPOMETRIC']"
+389,TMPO,2,"['HIPCadjBMI', 'BMI']","['Hip circumference adj BMI', 'BMI']",['ANTHROPOMETRIC'],"['ANTHROPOMETRIC', 'ANTHROPOMETRIC']"
+390,CCT3,2,"['BMI', 'T2D']","['BMI', 'Type 2 diabetes']","['ANTHROPOMETRIC', 'GLYCEMIC']","['ANTHROPOMETRIC', 'GLYCEMIC']"
+391,VIM,2,"['BMI', 'VATSATadjBMI']","['BMI', 'Ratio visceral-subcutaneous adipose tissue volume adj BMI']",['ANTHROPOMETRIC'],"['ANTHROPOMETRIC', 'ANTHROPOMETRIC']"
+392,YWHAE,2,"['BMI', 'T2D']","['BMI', 'Type 2 diabetes']","['ANTHROPOMETRIC', 'GLYCEMIC']","['ANTHROPOMETRIC', 'GLYCEMIC']"
+393,DNALI1,2,"['FGadjBMI', 'BMI']","['Fasting glucose adj BMI', 'BMI']","['ANTHROPOMETRIC', 'GLYCEMIC']","['GLYCEMIC', 'ANTHROPOMETRIC']"
+394,CEP97,2,"['T2DadjBMI', 'BMI']","['Type 2 diabetes adj BMI', 'BMI']","['ANTHROPOMETRIC', 'GLYCEMIC']","['GLYCEMIC', 'ANTHROPOMETRIC']"
+395,RPAP3,2,"['BMI', 'VATSATadjBMI']","['BMI', 'Ratio visceral-subcutaneous adipose tissue volume adj BMI']",['ANTHROPOMETRIC'],"['ANTHROPOMETRIC', 'ANTHROPOMETRIC']"
+396,CCDC51,2,"['BMI', 'T2D']","['BMI', 'Type 2 diabetes']","['ANTHROPOMETRIC', 'GLYCEMIC']","['ANTHROPOMETRIC', 'GLYCEMIC']"
+397,CEP76,2,"['HIPCadjBMI', 'BMI']","['Hip circumference adj BMI', 'BMI']",['ANTHROPOMETRIC'],"['ANTHROPOMETRIC', 'ANTHROPOMETRIC']"
+398,CCDC15,2,"['T2DadjBMI', 'BMI']","['Type 2 diabetes adj BMI', 'BMI']","['ANTHROPOMETRIC', 'GLYCEMIC']","['GLYCEMIC', 'ANTHROPOMETRIC']"
+399,TXNDC5,2,"['HIPCadjBMI', 'BMI']","['Hip circumference adj BMI', 'BMI']",['ANTHROPOMETRIC'],"['ANTHROPOMETRIC', 'ANTHROPOMETRIC']"
+400,DNAL1,2,"['LEPadjBMI', 'BMI']","['Leptin adj BMI', 'BMI']","['LIPIDS', 'ANTHROPOMETRIC']","['LIPIDS', 'ANTHROPOMETRIC']"
+401,CUL3,2,"['VATadjBMI', 'BMI']","['Visceral adipose tissue volume adj BMI', 'BMI']",['ANTHROPOMETRIC'],"['ANTHROPOMETRIC', 'ANTHROPOMETRIC']"
+402,TNKS1BP1,2,"['BMI', 'T2D']","['BMI', 'Type 2 diabetes']","['ANTHROPOMETRIC', 'GLYCEMIC']","['ANTHROPOMETRIC', 'GLYCEMIC']"
+403,RUVBL1,2,"['VATadjBMI', 'BMI']","['Visceral adipose tissue volume adj BMI', 'BMI']",['ANTHROPOMETRIC'],"['ANTHROPOMETRIC', 'ANTHROPOMETRIC']"
+404,DNAH11,2,"['T2DadjBMI', 'BMI']","['Type 2 diabetes adj BMI', 'BMI']","['ANTHROPOMETRIC', 'GLYCEMIC']","['GLYCEMIC', 'ANTHROPOMETRIC']"
+405,SQSTM1,2,"['HIPCadjBMI', 'BMI']","['Hip circumference adj BMI', 'BMI']",['ANTHROPOMETRIC'],"['ANTHROPOMETRIC', 'ANTHROPOMETRIC']"
+406,MAATS1,2,"['ISenBMI', 'BMI']","['Insulin sensitivity adj BMI', 'BMI']","['ANTHROPOMETRIC', 'GLYCEMIC']","['GLYCEMIC', 'ANTHROPOMETRIC']"
+407,MAP7,2,"['ISenBMI', 'BMI']","['Insulin sensitivity adj BMI', 'BMI']","['ANTHROPOMETRIC', 'GLYCEMIC']","['GLYCEMIC', 'ANTHROPOMETRIC']"
+408,CCNB2,2,"['FGadjBMI', 'BMI']","['Fasting glucose adj BMI', 'BMI']","['ANTHROPOMETRIC', 'GLYCEMIC']","['GLYCEMIC', 'ANTHROPOMETRIC']"
+409,TTC30A,2,"['T2DadjBMI', 'BMI']","['Type 2 diabetes adj BMI', 'BMI']","['ANTHROPOMETRIC', 'GLYCEMIC']","['GLYCEMIC', 'ANTHROPOMETRIC']"
+410,VAPB,2,"['BMI', 'T2D']","['BMI', 'Type 2 diabetes']","['ANTHROPOMETRIC', 'GLYCEMIC']","['ANTHROPOMETRIC', 'GLYCEMIC']"
+411,AIMP1,2,"['BMI', 'T2D']","['BMI', 'Type 2 diabetes']","['ANTHROPOMETRIC', 'GLYCEMIC']","['ANTHROPOMETRIC', 'GLYCEMIC']"
+412,CCP110,2,"['BMI', 'T2D']","['BMI', 'Type 2 diabetes']","['ANTHROPOMETRIC', 'GLYCEMIC']","['ANTHROPOMETRIC', 'GLYCEMIC']"
+413,SEC23A,2,"['FGadjBMI', 'T2D']","['Fasting glucose adj BMI', 'Type 2 diabetes']",['GLYCEMIC'],"['GLYCEMIC', 'GLYCEMIC']"
+414,CAMK2D,2,"['LEPadjBMI', 'FGadjBMI']","['Leptin adj BMI', 'Fasting glucose adj BMI']","['LIPIDS', 'GLYCEMIC']","['LIPIDS', 'GLYCEMIC']"
+415,IQCG,2,"['WHRadjBMI', 'FGadjBMI']","['Waist-hip ratio adj BMI', 'Fasting glucose adj BMI']","['ANTHROPOMETRIC', 'GLYCEMIC']","['ANTHROPOMETRIC', 'GLYCEMIC']"
+416,TJP2,2,"['FGadjBMI', 'T2D']","['Fasting glucose adj BMI', 'Type 2 diabetes']",['GLYCEMIC'],"['GLYCEMIC', 'GLYCEMIC']"
+417,SPAG6,2,"['FGadjBMI', 'T2D']","['Fasting glucose adj BMI', 'Type 2 diabetes']",['GLYCEMIC'],"['GLYCEMIC', 'GLYCEMIC']"
+418,SLC7A11,2,"['FIadjBMI', 'HIPCadjBMI']","['Fasting insulin adj BMI', 'Hip circumference adj BMI']","['ANTHROPOMETRIC', 'GLYCEMIC']","['GLYCEMIC', 'ANTHROPOMETRIC']"
+419,CEP170B,2,"['T2DadjBMI', 'FIadjBMI']","['Type 2 diabetes adj BMI', 'Fasting insulin adj BMI']",['GLYCEMIC'],"['GLYCEMIC', 'GLYCEMIC']"
+420,DDX17,2,"['ISenBMI', 'HIPCadjBMI']","['Insulin sensitivity adj BMI', 'Hip circumference adj BMI']","['ANTHROPOMETRIC', 'GLYCEMIC']","['GLYCEMIC', 'ANTHROPOMETRIC']"
+421,DDX6,2,"['WAISTadjBMI', 'HIPCadjBMI']","['Waist circumference adj BMI', 'Hip circumference adj BMI']",['ANTHROPOMETRIC'],"['ANTHROPOMETRIC', 'ANTHROPOMETRIC']"
+422,CBY1,2,"['WAISTadjBMI', 'HIPCadjBMI']","['Waist circumference adj BMI', 'Hip circumference adj BMI']",['ANTHROPOMETRIC'],"['ANTHROPOMETRIC', 'ANTHROPOMETRIC']"
+423,ARHGDIA,2,"['WHRadjBMI', 'HIPCadjBMI']","['Waist-hip ratio adj BMI', 'Hip circumference adj BMI']",['ANTHROPOMETRIC'],"['ANTHROPOMETRIC', 'ANTHROPOMETRIC']"
+424,P4HB,2,"['WHRadjBMI', 'HIPCadjBMI']","['Waist-hip ratio adj BMI', 'Hip circumference adj BMI']",['ANTHROPOMETRIC'],"['ANTHROPOMETRIC', 'ANTHROPOMETRIC']"
+425,RLBP1,2,"['WAISTadjBMI', 'HIPCadjBMI']","['Waist circumference adj BMI', 'Hip circumference adj BMI']",['ANTHROPOMETRIC'],"['ANTHROPOMETRIC', 'ANTHROPOMETRIC']"
+426,CALU,2,"['WAISTadjBMI', 'HIPCadjBMI']","['Waist circumference adj BMI', 'Hip circumference adj BMI']",['ANTHROPOMETRIC'],"['ANTHROPOMETRIC', 'ANTHROPOMETRIC']"
+427,EIF4E2,2,"['WHRadjBMI', 'HIPCadjBMI']","['Waist-hip ratio adj BMI', 'Hip circumference adj BMI']",['ANTHROPOMETRIC'],"['ANTHROPOMETRIC', 'ANTHROPOMETRIC']"
+428,GTPBP1,2,"['WAISTadjBMI', 'HIPCadjBMI']","['Waist circumference adj BMI', 'Hip circumference adj BMI']",['ANTHROPOMETRIC'],"['ANTHROPOMETRIC', 'ANTHROPOMETRIC']"
+429,DBN1,2,"['WAISTadjBMI', 'ISenBMI']","['Waist circumference adj BMI', 'Insulin sensitivity adj BMI']","['ANTHROPOMETRIC', 'GLYCEMIC']","['ANTHROPOMETRIC', 'GLYCEMIC']"
+430,TUBE1,2,"['T2DadjBMI', 'ISenBMI']","['Type 2 diabetes adj BMI', 'Insulin sensitivity adj BMI']",['GLYCEMIC'],"['GLYCEMIC', 'GLYCEMIC']"
+431,RAB10,2,"['T2DadjBMI', 'LEPadjBMI']","['Type 2 diabetes adj BMI', 'Leptin adj BMI']","['LIPIDS', 'GLYCEMIC']","['GLYCEMIC', 'LIPIDS']"
+432,SIPA1L1,2,"['LEPadjBMI', 'VATadjBMI']","['Leptin adj BMI', 'Visceral adipose tissue volume adj BMI']","['LIPIDS', 'ANTHROPOMETRIC']","['LIPIDS', 'ANTHROPOMETRIC']"
+433,SUPT5H,2,"['T2DadjBMI', 'LEPadjBMI']","['Type 2 diabetes adj BMI', 'Leptin adj BMI']","['LIPIDS', 'GLYCEMIC']","['GLYCEMIC', 'LIPIDS']"
+434,ERLIN1,2,"['T2DadjBMI', 'T2D']","['Type 2 diabetes adj BMI', 'Type 2 diabetes']",['GLYCEMIC'],"['GLYCEMIC', 'GLYCEMIC']"
+435,PTGES3,2,"['T2DadjBMI', 'T2D']","['Type 2 diabetes adj BMI', 'Type 2 diabetes']",['GLYCEMIC'],"['GLYCEMIC', 'GLYCEMIC']"
+436,IFT43,2,"['T2DadjBMI', 'T2D']","['Type 2 diabetes adj BMI', 'Type 2 diabetes']",['GLYCEMIC'],"['GLYCEMIC', 'GLYCEMIC']"
+437,CNGB1,2,"['T2DadjBMI', 'T2D']","['Type 2 diabetes adj BMI', 'Type 2 diabetes']",['GLYCEMIC'],"['GLYCEMIC', 'GLYCEMIC']"
+438,CYP51A1,2,"['T2DadjBMI', 'T2D']","['Type 2 diabetes adj BMI', 'Type 2 diabetes']",['GLYCEMIC'],"['GLYCEMIC', 'GLYCEMIC']"
+439,ABCF1,2,"['T2DadjBMI', 'T2D']","['Type 2 diabetes adj BMI', 'Type 2 diabetes']",['GLYCEMIC'],"['GLYCEMIC', 'GLYCEMIC']"
+440,KIF7,2,"['VATadjBMI', 'T2D']","['Visceral adipose tissue volume adj BMI', 'Type 2 diabetes']","['ANTHROPOMETRIC', 'GLYCEMIC']","['ANTHROPOMETRIC', 'GLYCEMIC']"
+441,PPP1R12A,2,"['T2DadjBMI', 'T2D']","['Type 2 diabetes adj BMI', 'Type 2 diabetes']",['GLYCEMIC'],"['GLYCEMIC', 'GLYCEMIC']"
+442,NDUFA5,2,"['T2DadjBMI', 'T2D']","['Type 2 diabetes adj BMI', 'Type 2 diabetes']",['GLYCEMIC'],"['GLYCEMIC', 'GLYCEMIC']"
+443,PLEC,2,"['T2DadjBMI', 'T2D']","['Type 2 diabetes adj BMI', 'Type 2 diabetes']",['GLYCEMIC'],"['GLYCEMIC', 'GLYCEMIC']"
+444,PPA1,2,"['T2DadjBMI', 'T2D']","['Type 2 diabetes adj BMI', 'Type 2 diabetes']",['GLYCEMIC'],"['GLYCEMIC', 'GLYCEMIC']"
+445,PTBP1,2,"['T2DadjBMI', 'T2D']","['Type 2 diabetes adj BMI', 'Type 2 diabetes']",['GLYCEMIC'],"['GLYCEMIC', 'GLYCEMIC']"
+446,IFT80,2,"['T2DadjBMI', 'T2D']","['Type 2 diabetes adj BMI', 'Type 2 diabetes']",['GLYCEMIC'],"['GLYCEMIC', 'GLYCEMIC']"
+447,RPS6KA1,2,"['T2DadjBMI', 'T2D']","['Type 2 diabetes adj BMI', 'Type 2 diabetes']",['GLYCEMIC'],"['GLYCEMIC', 'GLYCEMIC']"
+448,SRSF3,2,"['T2DadjBMI', 'T2D']","['Type 2 diabetes adj BMI', 'Type 2 diabetes']",['GLYCEMIC'],"['GLYCEMIC', 'GLYCEMIC']"
+449,CEP85,2,"['T2DadjBMI', 'T2D']","['Type 2 diabetes adj BMI', 'Type 2 diabetes']",['GLYCEMIC'],"['GLYCEMIC', 'GLYCEMIC']"
+450,SMO,2,"['T2DadjBMI', 'T2D']","['Type 2 diabetes adj BMI', 'Type 2 diabetes']",['GLYCEMIC'],"['GLYCEMIC', 'GLYCEMIC']"
+451,AURKA,2,"['T2DadjBMI', 'T2D']","['Type 2 diabetes adj BMI', 'Type 2 diabetes']",['GLYCEMIC'],"['GLYCEMIC', 'GLYCEMIC']"
+452,HIST2H2AA3,2,"['T2DadjBMI', 'T2D']","['Type 2 diabetes adj BMI', 'Type 2 diabetes']",['GLYCEMIC'],"['GLYCEMIC', 'GLYCEMIC']"
+453,CHCHD6,2,"['T2DadjBMI', 'T2D']","['Type 2 diabetes adj BMI', 'Type 2 diabetes']",['GLYCEMIC'],"['GLYCEMIC', 'GLYCEMIC']"
+454,UNC119B,2,"['T2DadjBMI', 'T2D']","['Type 2 diabetes adj BMI', 'Type 2 diabetes']",['GLYCEMIC'],"['GLYCEMIC', 'GLYCEMIC']"
+455,SSNA1,2,"['T2DadjBMI', 'T2D']","['Type 2 diabetes adj BMI', 'Type 2 diabetes']",['GLYCEMIC'],"['GLYCEMIC', 'GLYCEMIC']"
+456,SGPL1,2,"['T2DadjBMI', 'T2D']","['Type 2 diabetes adj BMI', 'Type 2 diabetes']",['GLYCEMIC'],"['GLYCEMIC', 'GLYCEMIC']"
+457,INA,2,"['WHRadjBMI', 'T2D']","['Waist-hip ratio adj BMI', 'Type 2 diabetes']","['ANTHROPOMETRIC', 'GLYCEMIC']","['ANTHROPOMETRIC', 'GLYCEMIC']"
+458,COPB2,2,"['T2DadjBMI', 'T2D']","['Type 2 diabetes adj BMI', 'Type 2 diabetes']",['GLYCEMIC'],"['GLYCEMIC', 'GLYCEMIC']"
+459,MLEC,2,"['T2DadjBMI', 'T2D']","['Type 2 diabetes adj BMI', 'Type 2 diabetes']",['GLYCEMIC'],"['GLYCEMIC', 'GLYCEMIC']"
+460,IPO8,2,"['T2DadjBMI', 'WHRadjBMI']","['Type 2 diabetes adj BMI', 'Waist-hip ratio adj BMI']","['ANTHROPOMETRIC', 'GLYCEMIC']","['GLYCEMIC', 'ANTHROPOMETRIC']"
+461,CDC37,2,"['T2DadjBMI', 'VATSATadjBMI']","['Type 2 diabetes adj BMI', 'Ratio visceral-subcutaneous adipose tissue volume adj BMI']","['ANTHROPOMETRIC', 'GLYCEMIC']","['GLYCEMIC', 'ANTHROPOMETRIC']"
+462,PALD1,2,"['T2DadjBMI', 'WAISTadjBMI']","['Type 2 diabetes adj BMI', 'Waist circumference adj BMI']","['ANTHROPOMETRIC', 'GLYCEMIC']","['GLYCEMIC', 'ANTHROPOMETRIC']"
+463,CNOT3,2,"['T2DadjBMI', 'WAISTadjBMI']","['Type 2 diabetes adj BMI', 'Waist circumference adj BMI']","['ANTHROPOMETRIC', 'GLYCEMIC']","['GLYCEMIC', 'ANTHROPOMETRIC']"
+464,SPATA7,2,"['T2DadjBMI', 'VATSATadjBMI']","['Type 2 diabetes adj BMI', 'Ratio visceral-subcutaneous adipose tissue volume adj BMI']","['ANTHROPOMETRIC', 'GLYCEMIC']","['GLYCEMIC', 'ANTHROPOMETRIC']"
+465,TMEM67,2,"['T2DadjBMI', 'VATSATadjBMI']","['Type 2 diabetes adj BMI', 'Ratio visceral-subcutaneous adipose tissue volume adj BMI']","['ANTHROPOMETRIC', 'GLYCEMIC']","['GLYCEMIC', 'ANTHROPOMETRIC']"
+466,PRKAA1,2,"['WAISTadjBMI', 'VATadjBMI']","['Waist circumference adj BMI', 'Visceral adipose tissue volume adj BMI']",['ANTHROPOMETRIC'],"['ANTHROPOMETRIC', 'ANTHROPOMETRIC']"
+467,IFT88,2,"['VATadjBMI', 'VATSATadjBMI']","['Visceral adipose tissue volume adj BMI', 'Ratio visceral-subcutaneous adipose tissue volume adj BMI']",['ANTHROPOMETRIC'],"['ANTHROPOMETRIC', 'ANTHROPOMETRIC']"
+468,CRYAB,2,"['WHRadjBMI', 'VATSATadjBMI']","['Waist-hip ratio adj BMI', 'Ratio visceral-subcutaneous adipose tissue volume adj BMI']",['ANTHROPOMETRIC'],"['ANTHROPOMETRIC', 'ANTHROPOMETRIC']"
+469,ACTR3,2,"['WAISTadjBMI', 'WHRadjBMI']","['Waist circumference adj BMI', 'Waist-hip ratio adj BMI']",['ANTHROPOMETRIC'],"['ANTHROPOMETRIC', 'ANTHROPOMETRIC']"
+470,DNAJB1,2,"['WAISTadjBMI', 'WHRadjBMI']","['Waist circumference adj BMI', 'Waist-hip ratio adj BMI']",['ANTHROPOMETRIC'],"['ANTHROPOMETRIC', 'ANTHROPOMETRIC']"
+471,RTCB,2,"['WAISTadjBMI', 'WHRadjBMI']","['Waist circumference adj BMI', 'Waist-hip ratio adj BMI']",['ANTHROPOMETRIC'],"['ANTHROPOMETRIC', 'ANTHROPOMETRIC']"
+472,ARPC3,1,['BMI'],['BMI'],['ANTHROPOMETRIC'],['ANTHROPOMETRIC']
+473,DNAL4,1,['BMI'],['BMI'],['ANTHROPOMETRIC'],['ANTHROPOMETRIC']
+474,CAP1,1,['BMI'],['BMI'],['ANTHROPOMETRIC'],['ANTHROPOMETRIC']
+475,DCTN2,1,['BMI'],['BMI'],['ANTHROPOMETRIC'],['ANTHROPOMETRIC']
+476,SPAG5,1,['BMI'],['BMI'],['ANTHROPOMETRIC'],['ANTHROPOMETRIC']
+477,RUVBL2,1,['BMI'],['BMI'],['ANTHROPOMETRIC'],['ANTHROPOMETRIC']
+478,IFT27,1,['BMI'],['BMI'],['ANTHROPOMETRIC'],['ANTHROPOMETRIC']
+479,DNAJB4,1,['BMI'],['BMI'],['ANTHROPOMETRIC'],['ANTHROPOMETRIC']
+480,DCTN3,1,['BMI'],['BMI'],['ANTHROPOMETRIC'],['ANTHROPOMETRIC']
+481,PHB2,1,['BMI'],['BMI'],['ANTHROPOMETRIC'],['ANTHROPOMETRIC']
+482,TUBGCP5,1,['BMI'],['BMI'],['ANTHROPOMETRIC'],['ANTHROPOMETRIC']
+483,LRRC56,1,['BMI'],['BMI'],['ANTHROPOMETRIC'],['ANTHROPOMETRIC']
+484,CNTROB,1,['BMI'],['BMI'],['ANTHROPOMETRIC'],['ANTHROPOMETRIC']
+485,IQGAP3,1,['BMI'],['BMI'],['ANTHROPOMETRIC'],['ANTHROPOMETRIC']
+486,DYNLL2,1,['BMI'],['BMI'],['ANTHROPOMETRIC'],['ANTHROPOMETRIC']
+487,CSNK2A2,1,['BMI'],['BMI'],['ANTHROPOMETRIC'],['ANTHROPOMETRIC']
+488,TTBK2,1,['BMI'],['BMI'],['ANTHROPOMETRIC'],['ANTHROPOMETRIC']
+489,CTNNA1,1,['BMI'],['BMI'],['ANTHROPOMETRIC'],['ANTHROPOMETRIC']
+490,AP2A1,1,['BMI'],['BMI'],['ANTHROPOMETRIC'],['ANTHROPOMETRIC']
+491,DDX1,1,['BMI'],['BMI'],['ANTHROPOMETRIC'],['ANTHROPOMETRIC']
+492,LCA5,1,['BMI'],['BMI'],['ANTHROPOMETRIC'],['ANTHROPOMETRIC']
+493,TXLNA,1,['BMI'],['BMI'],['ANTHROPOMETRIC'],['ANTHROPOMETRIC']
+494,MARK2,1,['BMI'],['BMI'],['ANTHROPOMETRIC'],['ANTHROPOMETRIC']
+495,STT3B,1,['BMI'],['BMI'],['ANTHROPOMETRIC'],['ANTHROPOMETRIC']
+496,EVC,1,['BMI'],['BMI'],['ANTHROPOMETRIC'],['ANTHROPOMETRIC']
+497,SKA3,1,['BMI'],['BMI'],['ANTHROPOMETRIC'],['ANTHROPOMETRIC']
+498,DNAJC8,1,['BMI'],['BMI'],['ANTHROPOMETRIC'],['ANTHROPOMETRIC']
+499,CEP162,1,['BMI'],['BMI'],['ANTHROPOMETRIC'],['ANTHROPOMETRIC']
+500,AAK1,1,['BMI'],['BMI'],['ANTHROPOMETRIC'],['ANTHROPOMETRIC']
+501,CEP164,1,['BMI'],['BMI'],['ANTHROPOMETRIC'],['ANTHROPOMETRIC']
+502,NINL,1,['BMI'],['BMI'],['ANTHROPOMETRIC'],['ANTHROPOMETRIC']
+503,CEP131,1,['BMI'],['BMI'],['ANTHROPOMETRIC'],['ANTHROPOMETRIC']
+504,CNOT1,1,['BMI'],['BMI'],['ANTHROPOMETRIC'],['ANTHROPOMETRIC']
+505,ERC1,1,['BMI'],['BMI'],['ANTHROPOMETRIC'],['ANTHROPOMETRIC']
+506,FAM120A,1,['BMI'],['BMI'],['ANTHROPOMETRIC'],['ANTHROPOMETRIC']
+507,TRIM2,1,['BMI'],['BMI'],['ANTHROPOMETRIC'],['ANTHROPOMETRIC']
+508,DNAJC16,1,['BMI'],['BMI'],['ANTHROPOMETRIC'],['ANTHROPOMETRIC']
+509,UBR4,1,['BMI'],['BMI'],['ANTHROPOMETRIC'],['ANTHROPOMETRIC']
+510,FKBP8,1,['BMI'],['BMI'],['ANTHROPOMETRIC'],['ANTHROPOMETRIC']
+511,TCTEX1D2,1,['BMI'],['BMI'],['ANTHROPOMETRIC'],['ANTHROPOMETRIC']
+512,RAB11FIP5,1,['BMI'],['BMI'],['ANTHROPOMETRIC'],['ANTHROPOMETRIC']
+513,TRAF3IP1,1,['BMI'],['BMI'],['ANTHROPOMETRIC'],['ANTHROPOMETRIC']
+514,CKAP2,1,['BMI'],['BMI'],['ANTHROPOMETRIC'],['ANTHROPOMETRIC']
+515,B9D1,1,['BMI'],['BMI'],['ANTHROPOMETRIC'],['ANTHROPOMETRIC']
+516,NEK8,1,['BMI'],['BMI'],['ANTHROPOMETRIC'],['ANTHROPOMETRIC']
+517,RABL3,1,['BMI'],['BMI'],['ANTHROPOMETRIC'],['ANTHROPOMETRIC']
+518,FAM83H,1,['BMI'],['BMI'],['ANTHROPOMETRIC'],['ANTHROPOMETRIC']
+519,ANK3,1,['BMI'],['BMI'],['ANTHROPOMETRIC'],['ANTHROPOMETRIC']
+520,CCDC113,1,['BMI'],['BMI'],['ANTHROPOMETRIC'],['ANTHROPOMETRIC']
+521,MED4,1,['BMI'],['BMI'],['ANTHROPOMETRIC'],['ANTHROPOMETRIC']
+522,GSN,1,['BMI'],['BMI'],['ANTHROPOMETRIC'],['ANTHROPOMETRIC']
+523,IDH3B,1,['BMI'],['BMI'],['ANTHROPOMETRIC'],['ANTHROPOMETRIC']
+524,RSPH4A,1,['BMI'],['BMI'],['ANTHROPOMETRIC'],['ANTHROPOMETRIC']
+525,ITGAV,1,['BMI'],['BMI'],['ANTHROPOMETRIC'],['ANTHROPOMETRIC']
+526,ARHGAP1,1,['BMI'],['BMI'],['ANTHROPOMETRIC'],['ANTHROPOMETRIC']
+527,DRG1,1,['BMI'],['BMI'],['ANTHROPOMETRIC'],['ANTHROPOMETRIC']
+528,ODF2,1,['BMI'],['BMI'],['ANTHROPOMETRIC'],['ANTHROPOMETRIC']
+529,PAFAH1B1,1,['BMI'],['BMI'],['ANTHROPOMETRIC'],['ANTHROPOMETRIC']
+530,WDPCP,1,['BMI'],['BMI'],['ANTHROPOMETRIC'],['ANTHROPOMETRIC']
+531,SNX9,1,['BMI'],['BMI'],['ANTHROPOMETRIC'],['ANTHROPOMETRIC']
+532,DYNC2LI1,1,['BMI'],['BMI'],['ANTHROPOMETRIC'],['ANTHROPOMETRIC']
+533,HSPB11,1,['BMI'],['BMI'],['ANTHROPOMETRIC'],['ANTHROPOMETRIC']
+534,PIN1,1,['BMI'],['BMI'],['ANTHROPOMETRIC'],['ANTHROPOMETRIC']
+535,PKD2,1,['BMI'],['BMI'],['ANTHROPOMETRIC'],['ANTHROPOMETRIC']
+536,PPP1CA,1,['BMI'],['BMI'],['ANTHROPOMETRIC'],['ANTHROPOMETRIC']
+537,PRKACA,1,['BMI'],['BMI'],['ANTHROPOMETRIC'],['ANTHROPOMETRIC']
+538,EIF4ENIF1,1,['BMI'],['BMI'],['ANTHROPOMETRIC'],['ANTHROPOMETRIC']
+539,ODF2L,1,['BMI'],['BMI'],['ANTHROPOMETRIC'],['ANTHROPOMETRIC']
+540,RAB6A,1,['BMI'],['BMI'],['ANTHROPOMETRIC'],['ANTHROPOMETRIC']
+541,RNH1,1,['BMI'],['BMI'],['ANTHROPOMETRIC'],['ANTHROPOMETRIC']
+542,DHX35,1,['BMI'],['BMI'],['ANTHROPOMETRIC'],['ANTHROPOMETRIC']
+543,VPS16,1,['BMI'],['BMI'],['ANTHROPOMETRIC'],['ANTHROPOMETRIC']
+544,STK4,1,['BMI'],['BMI'],['ANTHROPOMETRIC'],['ANTHROPOMETRIC']
+545,HSP90B1,1,['BMI'],['BMI'],['ANTHROPOMETRIC'],['ANTHROPOMETRIC']
+546,TSG101,1,['BMI'],['BMI'],['ANTHROPOMETRIC'],['ANTHROPOMETRIC']
+547,CCDC61,1,['BMI'],['BMI'],['ANTHROPOMETRIC'],['ANTHROPOMETRIC']
+548,TUBA1A,1,['BMI'],['BMI'],['ANTHROPOMETRIC'],['ANTHROPOMETRIC']
+549,DDA1,1,['BMI'],['BMI'],['ANTHROPOMETRIC'],['ANTHROPOMETRIC']
+550,TMEM231,1,['BMI'],['BMI'],['ANTHROPOMETRIC'],['ANTHROPOMETRIC']
+551,TCTN1,1,['BMI'],['BMI'],['ANTHROPOMETRIC'],['ANTHROPOMETRIC']
+552,ARHGAP10,1,['BMI'],['BMI'],['ANTHROPOMETRIC'],['ANTHROPOMETRIC']
+553,TTC21B,1,['BMI'],['BMI'],['ANTHROPOMETRIC'],['ANTHROPOMETRIC']
+554,NAA40,1,['BMI'],['BMI'],['ANTHROPOMETRIC'],['ANTHROPOMETRIC']
+555,TUBAL3,1,['BMI'],['BMI'],['ANTHROPOMETRIC'],['ANTHROPOMETRIC']
+556,DCAKD,1,['BMI'],['BMI'],['ANTHROPOMETRIC'],['ANTHROPOMETRIC']
+557,TTC26,1,['BMI'],['BMI'],['ANTHROPOMETRIC'],['ANTHROPOMETRIC']
+558,CALM1,1,['BMI'],['BMI'],['ANTHROPOMETRIC'],['ANTHROPOMETRIC']
+559,FUZ,1,['BMI'],['BMI'],['ANTHROPOMETRIC'],['ANTHROPOMETRIC']
+560,CALM2,1,['BMI'],['BMI'],['ANTHROPOMETRIC'],['ANTHROPOMETRIC']
+561,PTDSS2,1,['BMI'],['BMI'],['ANTHROPOMETRIC'],['ANTHROPOMETRIC']
+562,KIAA1109,1,['BMI'],['BMI'],['ANTHROPOMETRIC'],['ANTHROPOMETRIC']
+563,WDR83,1,['BMI'],['BMI'],['ANTHROPOMETRIC'],['ANTHROPOMETRIC']
+564,HOOK3,1,['BMI'],['BMI'],['ANTHROPOMETRIC'],['ANTHROPOMETRIC']
+565,LZTS2,1,['BMI'],['BMI'],['ANTHROPOMETRIC'],['ANTHROPOMETRIC']
+566,PRRC2B,1,['BMI'],['BMI'],['ANTHROPOMETRIC'],['ANTHROPOMETRIC']
+567,FBF1,1,['BMI'],['BMI'],['ANTHROPOMETRIC'],['ANTHROPOMETRIC']
+568,KIAA1671,1,['BMI'],['BMI'],['ANTHROPOMETRIC'],['ANTHROPOMETRIC']
+569,DOCK7,1,['BMI'],['BMI'],['ANTHROPOMETRIC'],['ANTHROPOMETRIC']
+570,CCDC65,1,['BMI'],['BMI'],['ANTHROPOMETRIC'],['ANTHROPOMETRIC']
+571,GPAA1,1,['BMI'],['BMI'],['ANTHROPOMETRIC'],['ANTHROPOMETRIC']
+572,HERC2,1,['BMI'],['BMI'],['ANTHROPOMETRIC'],['ANTHROPOMETRIC']
+573,WDR34,1,['BMI'],['BMI'],['ANTHROPOMETRIC'],['ANTHROPOMETRIC']
+574,AIP,1,['BMI'],['BMI'],['ANTHROPOMETRIC'],['ANTHROPOMETRIC']
+575,UNC119,1,['BMI'],['BMI'],['ANTHROPOMETRIC'],['ANTHROPOMETRIC']
+576,VAPA,1,['BMI'],['BMI'],['ANTHROPOMETRIC'],['ANTHROPOMETRIC']
+577,KIF3B,1,['BMI'],['BMI'],['ANTHROPOMETRIC'],['ANTHROPOMETRIC']
+578,TM9SF2,1,['BMI'],['BMI'],['ANTHROPOMETRIC'],['ANTHROPOMETRIC']
+579,PIGS,1,['BMI'],['BMI'],['ANTHROPOMETRIC'],['ANTHROPOMETRIC']
+580,EI24,1,['BMI'],['BMI'],['ANTHROPOMETRIC'],['ANTHROPOMETRIC']
+581,AKAP12,1,['BMI'],['BMI'],['ANTHROPOMETRIC'],['ANTHROPOMETRIC']
+582,IQCB1,1,['BMI'],['BMI'],['ANTHROPOMETRIC'],['ANTHROPOMETRIC']
+583,CKAP5,1,['BMI'],['BMI'],['ANTHROPOMETRIC'],['ANTHROPOMETRIC']
+584,CEP170,1,['BMI'],['BMI'],['ANTHROPOMETRIC'],['ANTHROPOMETRIC']
+585,PLK4,1,['FGadjBMI'],['Fasting glucose adj BMI'],['GLYCEMIC'],['GLYCEMIC']
+586,TMEM65,1,['FGadjBMI'],['Fasting glucose adj BMI'],['GLYCEMIC'],['GLYCEMIC']
+587,ACSL3,1,['FGadjBMI'],['Fasting glucose adj BMI'],['GLYCEMIC'],['GLYCEMIC']
+588,RAB8A,1,['FGadjBMI'],['Fasting glucose adj BMI'],['GLYCEMIC'],['GLYCEMIC']
+589,PI4KA,1,['FGadjBMI'],['Fasting glucose adj BMI'],['GLYCEMIC'],['GLYCEMIC']
+590,CTR9,1,['FGadjBMI'],['Fasting glucose adj BMI'],['GLYCEMIC'],['GLYCEMIC']
+591,IVL,1,['FIadjBMI'],['Fasting insulin adj BMI'],['GLYCEMIC'],['GLYCEMIC']
+592,IFT74,1,['FIadjBMI'],['Fasting insulin adj BMI'],['GLYCEMIC'],['GLYCEMIC']
+593,CEP135,1,['FIadjBMI'],['Fasting insulin adj BMI'],['GLYCEMIC'],['GLYCEMIC']
+594,DDX5,1,['HIPCadjBMI'],['Hip circumference adj BMI'],['ANTHROPOMETRIC'],['ANTHROPOMETRIC']
+595,FLCN,1,['HIPCadjBMI'],['Hip circumference adj BMI'],['ANTHROPOMETRIC'],['ANTHROPOMETRIC']
+596,ENKUR,1,['HIPCadjBMI'],['Hip circumference adj BMI'],['ANTHROPOMETRIC'],['ANTHROPOMETRIC']
+597,TBK1,1,['HIPCadjBMI'],['Hip circumference adj BMI'],['ANTHROPOMETRIC'],['ANTHROPOMETRIC']
+598,LRRC59,1,['HIPCadjBMI'],['Hip circumference adj BMI'],['ANTHROPOMETRIC'],['ANTHROPOMETRIC']
+599,N4BP2,1,['HIPCadjBMI'],['Hip circumference adj BMI'],['ANTHROPOMETRIC'],['ANTHROPOMETRIC']
+600,WDR35,1,['HIPCadjBMI'],['Hip circumference adj BMI'],['ANTHROPOMETRIC'],['ANTHROPOMETRIC']
+601,UBE2H,1,['HIPCadjBMI'],['Hip circumference adj BMI'],['ANTHROPOMETRIC'],['ANTHROPOMETRIC']
+602,COPS3,1,['HIPCadjBMI'],['Hip circumference adj BMI'],['ANTHROPOMETRIC'],['ANTHROPOMETRIC']
+603,CEP95,1,['HIPCadjBMI'],['Hip circumference adj BMI'],['ANTHROPOMETRIC'],['ANTHROPOMETRIC']
+604,NCKAP1,1,['ISenBMI'],['Insulin sensitivity adj BMI'],['GLYCEMIC'],['GLYCEMIC']
+605,MTR,1,['ISenBMI'],['Insulin sensitivity adj BMI'],['GLYCEMIC'],['GLYCEMIC']
+606,NXN,1,['ISenBMI'],['Insulin sensitivity adj BMI'],['GLYCEMIC'],['GLYCEMIC']
+607,VN1R5,1,['LEPadjBMI'],['Leptin adj BMI'],['LIPIDS'],['LIPIDS']
+608,HSPA8,1,['LEPadjBMI'],['Leptin adj BMI'],['LIPIDS'],['LIPIDS']
+609,BCR,1,['LEPadjBMI'],['Leptin adj BMI'],['LIPIDS'],['LIPIDS']
+610,TP53BP2,1,['LEPadjBMI'],['Leptin adj BMI'],['LIPIDS'],['LIPIDS']
+611,MKKS,1,['LEPadjBMI'],['Leptin adj BMI'],['LIPIDS'],['LIPIDS']
+612,ABI1,1,['T2D'],['Type 2 diabetes'],['GLYCEMIC'],['GLYCEMIC']
+613,PGRMC2,1,['T2D'],['Type 2 diabetes'],['GLYCEMIC'],['GLYCEMIC']
+614,HAUS1,1,['T2D'],['Type 2 diabetes'],['GLYCEMIC'],['GLYCEMIC']
+615,DNAAF1,1,['T2D'],['Type 2 diabetes'],['GLYCEMIC'],['GLYCEMIC']
+616,CSNK2A1,1,['T2D'],['Type 2 diabetes'],['GLYCEMIC'],['GLYCEMIC']
+617,C8orf37,1,['T2D'],['Type 2 diabetes'],['GLYCEMIC'],['GLYCEMIC']
+618,ANXA1,1,['T2D'],['Type 2 diabetes'],['GLYCEMIC'],['GLYCEMIC']
+619,UBE2K,1,['T2D'],['Type 2 diabetes'],['GLYCEMIC'],['GLYCEMIC']
+620,CEP83,1,['T2D'],['Type 2 diabetes'],['GLYCEMIC'],['GLYCEMIC']
+621,COMMD8,1,['T2D'],['Type 2 diabetes'],['GLYCEMIC'],['GLYCEMIC']
+622,PIH1D1,1,['T2D'],['Type 2 diabetes'],['GLYCEMIC'],['GLYCEMIC']
+623,TMEM237,1,['T2D'],['Type 2 diabetes'],['GLYCEMIC'],['GLYCEMIC']
+624,THBS1,1,['T2D'],['Type 2 diabetes'],['GLYCEMIC'],['GLYCEMIC']
+625,BBS10,1,['T2D'],['Type 2 diabetes'],['GLYCEMIC'],['GLYCEMIC']
+626,SMC3,1,['T2D'],['Type 2 diabetes'],['GLYCEMIC'],['GLYCEMIC']
+627,CEP57,1,['T2D'],['Type 2 diabetes'],['GLYCEMIC'],['GLYCEMIC']
+628,DCTN6,1,['T2DadjBMI'],['Type 2 diabetes adj BMI'],['GLYCEMIC'],['GLYCEMIC']
+629,EXOC3,1,['T2DadjBMI'],['Type 2 diabetes adj BMI'],['GLYCEMIC'],['GLYCEMIC']
+630,KIF3C,1,['T2DadjBMI'],['Type 2 diabetes adj BMI'],['GLYCEMIC'],['GLYCEMIC']
+631,CNOT2,1,['T2DadjBMI'],['Type 2 diabetes adj BMI'],['GLYCEMIC'],['GLYCEMIC']
+632,MKS1,1,['T2DadjBMI'],['Type 2 diabetes adj BMI'],['GLYCEMIC'],['GLYCEMIC']
+633,MIB1,1,['T2DadjBMI'],['Type 2 diabetes adj BMI'],['GLYCEMIC'],['GLYCEMIC']
+634,ALMS1,1,['T2DadjBMI'],['Type 2 diabetes adj BMI'],['GLYCEMIC'],['GLYCEMIC']
+635,RIOK1,1,['T2DadjBMI'],['Type 2 diabetes adj BMI'],['GLYCEMIC'],['GLYCEMIC']
+636,SCLT1,1,['VATadjBMI'],['Visceral adipose tissue volume adj BMI'],['ANTHROPOMETRIC'],['ANTHROPOMETRIC']
+637,NPHP4,1,['VATadjBMI'],['Visceral adipose tissue volume adj BMI'],['ANTHROPOMETRIC'],['ANTHROPOMETRIC']
+638,PPP2CA,1,['VATadjBMI'],['Visceral adipose tissue volume adj BMI'],['ANTHROPOMETRIC'],['ANTHROPOMETRIC']
+639,PPP2R1A,1,['VATadjBMI'],['Visceral adipose tissue volume adj BMI'],['ANTHROPOMETRIC'],['ANTHROPOMETRIC']
+640,C21orf2,1,['VATadjBMI'],['Visceral adipose tissue volume adj BMI'],['ANTHROPOMETRIC'],['ANTHROPOMETRIC']
+641,MCM2,1,['VATSATadjBMI'],['Ratio visceral-subcutaneous adipose tissue volume adj BMI'],['ANTHROPOMETRIC'],['ANTHROPOMETRIC']
+642,AHI1,1,['VATSATadjBMI'],['Ratio visceral-subcutaneous adipose tissue volume adj BMI'],['ANTHROPOMETRIC'],['ANTHROPOMETRIC']
+643,CENPJ,1,['VATSATadjBMI'],['Ratio visceral-subcutaneous adipose tissue volume adj BMI'],['ANTHROPOMETRIC'],['ANTHROPOMETRIC']
+644,ARL6,1,['VATSATadjBMI'],['Ratio visceral-subcutaneous adipose tissue volume adj BMI'],['ANTHROPOMETRIC'],['ANTHROPOMETRIC']
+645,RAB28,1,['VATSATadjBMI'],['Ratio visceral-subcutaneous adipose tissue volume adj BMI'],['ANTHROPOMETRIC'],['ANTHROPOMETRIC']
+646,TFG,1,['WAISTadjBMI'],['Waist circumference adj BMI'],['ANTHROPOMETRIC'],['ANTHROPOMETRIC']
+647,WDR92,1,['WAISTadjBMI'],['Waist circumference adj BMI'],['ANTHROPOMETRIC'],['ANTHROPOMETRIC']
+648,AP2S1,1,['WAISTadjBMI'],['Waist circumference adj BMI'],['ANTHROPOMETRIC'],['ANTHROPOMETRIC']
+649,RNF32,1,['WAISTadjBMI'],['Waist circumference adj BMI'],['ANTHROPOMETRIC'],['ANTHROPOMETRIC']
+650,NEK9,1,['WAISTadjBMI'],['Waist circumference adj BMI'],['ANTHROPOMETRIC'],['ANTHROPOMETRIC']
+651,RABL2B,1,['WHRadjBMI'],['Waist-hip ratio adj BMI'],['ANTHROPOMETRIC'],['ANTHROPOMETRIC']
+652,KIFAP3,1,['WHRadjBMI'],['Waist-hip ratio adj BMI'],['ANTHROPOMETRIC'],['ANTHROPOMETRIC']
+653,MYH9,1,['WHRadjBMI'],['Waist-hip ratio adj BMI'],['ANTHROPOMETRIC'],['ANTHROPOMETRIC']
+654,NSF,1,['WHRadjBMI'],['Waist-hip ratio adj BMI'],['ANTHROPOMETRIC'],['ANTHROPOMETRIC']
+655,ARHGAP29,1,['WHRadjBMI'],['Waist-hip ratio adj BMI'],['ANTHROPOMETRIC'],['ANTHROPOMETRIC']
